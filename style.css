@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
+
+:root {
+  --fundo: #AEB8FE;
+  --ficha: black;
+  --cor-texto: white;
+  --texto-grande: 4rem;
+  --texto-normal: 2rem;
+  --texto-pequeno: 1rem;
+  --fonte: 'Playfair Display';
+}
+
+body {
+    /*background-image: radial-gradient(#9FE2BF, #73c6b6, #008080);*/
+    background-color: var(--fundo);
+    color: var(--cor-texto);
+    font-family: var(--fonte);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.ficha {
+    width: 400px;
+    height:400px;
+    padding: 1em 2em;
+    border-radius: 10px;
+    background-color: var(--ficha);
+    display: grid;
+    grid-template-areas:
+    'por . cat'
+    'pin pin pin'
+    'han han han'
+    'som som som';
+}
+
+.pinyin {
+    font-size: var(--texto-normal);
+    text-align: center;
+    grid-area: pin;
+}
+
+audio {
+    font-size: var(--texto-normal);
+    text-align: center;
+    grid-area: som;
+}
+
+.hanzi {
+    font-size: var(--texto-grande);
+    text-align: center;
+    margin: 0;
+    grid-area: han;
+}
+
+.portugues {
+    color: var(--fundo);
+    font-size: var(--texto-pequeno);
+    font-style: italic;
+    grid-area: por;
+}
+
+.categoria {
+    color: var(--fundo);
+    font-size: var(--texto-pequeno);
+    text-align: right;
+    grid-area: cat;
+}
