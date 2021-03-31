@@ -5,6 +5,7 @@ const proximaFicha = document.getElementsByClassName("ficha");
 function sorteio(min, max) {
 	return Math.floor(Math.random() * (max - min + 1) ) + min;
 }
+
 let change = sorteio(1, listaDePalavras.length);
 
 proximaFicha[0].addEventListener("click", function() {
@@ -14,14 +15,5 @@ proximaFicha[0].addEventListener("click", function() {
 	document.querySelector(".categoria").innerHTML = `${listaDePalavras[change][0]}`; 
 	document.getElementsByTagName("source")[0].src = `sounds/${listaDePalavras[change][4]}`;
 	document.getElementsByTagName("audio")[0].load();
-	// document.getElementsByTagName("source")[0].setAttribute("src", sound);
 	change = sorteio(1, listaDePalavras.length);
 });
-
-// proximaFicha[0].addEventListener("keydown", function() {
-// 	document.querySelector(".pinyin").innerHTML = `${listaDePalavras[change][2]}`;
-// 	document.querySelector(".hanzi").innerHTML = `${listaDePalavras[change][3]}`; 
-// 	document.querySelector(".portugues").innerHTML = `${listaDePalavras[change][1]}`; 
-// 	document.querySelector(".categoria").innerHTML = `${listaDePalavras[change][0]}`; 
-// 	change = sorteio(1, listaDePalavras.length);
-// });
