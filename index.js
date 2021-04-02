@@ -6,7 +6,7 @@ function sorteio(min, max) {
 	return Math.floor(Math.random() * (max - min + 1) ) + min;
 }
 
-let change = sorteio(1, listaDePalavras.length);
+let change = sorteio(1, listaDePalavras.length-1);
 
 proximaFicha[0].addEventListener("click", function() {
 	document.querySelector(".pinyin").innerHTML = `${listaDePalavras[change][2]}`;
