@@ -67,3 +67,10 @@ audio {
     text-align: right;
     grid-area: cat;
 }
+
+@media only screen and (min-width: 600px) {
+
+    body {
+        width: 100vw;
+    }
+}
