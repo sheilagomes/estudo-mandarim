@@ -44,6 +44,8 @@ body {
 audio {
     font-size: var(--texto-normal);
     text-align: center;
+    margin-top: 0;
+    padding-bottom: 1em;
     grid-area: som;
 }
 
@@ -68,9 +70,13 @@ audio {
     grid-area: cat;
 }
 
-@media only screen and (min-width: 600px) {
+@media only screen and (max-width: 600px) {
 
     body {
         width: 100vw;
     }
-}
+
+    .ficha {
+        width: 100vw;
+        height:100vh;
+    }
