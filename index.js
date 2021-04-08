@@ -2,11 +2,18 @@ const listaDePalavras = [["GERAL","sol","rì","日","ri.mp3"],["GERAL","lua","yu
 
 const proximaFicha = document.getElementsByClassName("ficha");
 
+const intro = document.getElementsByClassName("intro");
+
 function sorteio(min, max) {
 	return Math.floor(Math.random() * (max - min + 1) ) + min;
 }
 
-let change = sorteio(1, listaDePalavras.length-1);
+intro[0].addEventListener("click", function() {
+	document.querySelector(".flip-img .flip-img-inner").style.transform = `rotateY(180deg)`;
+	document.querySelector(".intro").style.display = `none`;
+});
+
+let change = sorteio(0, listaDePalavras.length-1);
 
 proximaFicha[0].addEventListener("click", function() {
 	document.querySelector(".pinyin").innerHTML = `${listaDePalavras[change][2]}`;
@@ -15,7 +22,7 @@ proximaFicha[0].addEventListener("click", function() {
 	document.querySelector(".categoria").innerHTML = `${listaDePalavras[change][0]}`; 
 	document.getElementsByTagName("source")[0].src = `sounds/${listaDePalavras[change][4]}`;
 	document.getElementsByTagName("audio")[0].load();
-	change = sorteio(1, listaDePalavras.length);
+	change = sorteio(0, listaDePalavras.length-1);
 });
 
 document.addEventListener('keydown', (event) => {
@@ -25,5 +32,5 @@ document.addEventListener('keydown', (event) => {
 	document.querySelector(".categoria").innerHTML = `${listaDePalavras[change][0]}`; 
 	document.getElementsByTagName("source")[0].src = `sounds/${listaDePalavras[change][4]}`;
 	document.getElementsByTagName("audio")[0].load();
-	change = sorteio(1, listaDePalavras.length);
+	change = sorteio(0, listaDePalavras.length-1);
 });

@@ -4,21 +4,47 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Estudo de mandarim</title>
-	<script src="https://kit.fontawesome.com/ef442ab3a4.js" crossorigin="anonymous"></script>
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="ficha">
-	    <p class="pinyin">bāngmáng</p>
-	    <p class="hanzi">帮忙</p>
-	    <p class="portugues">ajudar</p>
-	    <p class="categoria">VOGAL ANG</p>
+	<main>
+		<div class="flip-img">
+			<div class="flip-img-inner">
+				<div class="flip-img-front intro">
+					<h1 class="intro-titulo">Estudo de mandarim</h1>
+					<p class="intro-texto">Escolha abaixo se prefere ver as fichas na sequência da apostila ou de forma aleatória. Para ver a próxima ficha, basta apertar qualquer tecla ou tocar em qualquer parte da tela. As flechas avançam ou retrocedem as fichas. O som é reproduzido automaticamente, mas pode ser desligado e acionado manualmente. <span class="intro-final">Bons estudos!</span></p>
+					<ul class="botoes">
+						<li class="seq">sequencial</li>
+						<li class="ale">aleatório</li>
+					</ul>
+                </div>
+                <div class="flip-img-back ficha">
+                	<p class="pinyin">zhōngwén</p>
+                	<p class="hanzi">中文</p>
+                	<p class="portugues">chinês</p>
+                	<p class="categoria">VOGAL -UN WEN</p>
+                	<audio controls autoplay>
+                		<source src="sounds/zhongwen.mp3" type="audio/mpeg">
+                		Your browser does not support the audio element.
+                	</audio>
+                </div>
+            </div>
+        </div>
+	</main>
+    <!-- <div class="intro">
+	    <p class="texto-intro">Escolha abaixo o modo em que prefere ver as fichas. Para mudar, basta apertar qualquer tecla ou tocar em qualquer parte da tela. As flechas avançam ou retrocedem as fichas. O som é reproduzido automaticamente, mas pode ser desligado e acionado manualmente. Bons estudos!</p>
+	    <p class="botoes"><span>sequencial</span><span>aleatório</span></p>
+	</div>
+	<div class="ficha no-show">
+	    <p class="pinyin">zhōngwén</p>
+	    <p class="hanzi">中文</p>
+	    <p class="portugues">chinês</p>
+	    <p class="categoria">VOGAL -UN WEN</p>
 	    <audio controls autoplay>
-	    	<source src="sounds/bangmang.mp3" type="audio/mpeg">
+	    	<source src="sounds/zhongwen.mp3" type="audio/mpeg">
 	    	Your browser does not support the audio element.
 	    </audio> 
-	    <!-- <p class="som"><i class="fas fa-volume-up"></i></p> -->
-	</div>
+	</div> -->
 	<script src="index.js"></script>
 </body>
 </html>
