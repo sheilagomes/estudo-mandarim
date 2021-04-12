@@ -2,7 +2,7 @@ const listaDePalavras = [["GERAL","sol","rì","日","ri.mp3"],["GERAL","lua","yu
 const proximaFicha = document.querySelector(".ficha");
 const botaoSequencial = document.querySelector(".seq");
 const botaoAleatorio = document.querySelector(".ale");
-let novoIndice = 0;
+let novoIndice = 1;
 let botaoSelecionado = "";
 
 function sorteio(min, max) {

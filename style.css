@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700&display=swap');
 
 :root {
-  --fundo: #f1ceb3;/*AEB8FE;*/
+  --fundo: #F1CEB3;
   --ficha: #00000080;
-  --dark-color: #0a0a0a;
-  --cor-texto: #ffeebb;
-  --intro-fundo: #ffeebb00;
+  --dark-color: #0A0A0A;
+  --cor-texto: #FFEEBB;
+  --intro-fundo: #FFEEBB00;
   --texto-grande: 4rem;
   --texto-normal: 2rem;
   --texto-pequeno: 1rem;
@@ -48,11 +48,6 @@ body {
     transition: transform 0.6s;
     transform-style: preserve-3d;
 }
-
-/*.flip-img:hover .flip-img-inner ,
-.flip-img:active .flip-img-inner {
-    transform: rotateY(180deg);
-}*/
 
 .flip-img-front, .flip-img-back {
     position: absolute;
@@ -142,6 +137,21 @@ audio {
     grid-area: han;
 }
 
+.hanzi::before { 
+    content: 'hello';
+    position: absolute;
+    left: -2em;
+    top: 0;
+    width: 3em;
+    height: 3em;
+    border: 3em solid transparent;
+    border-left-color: yellow;
+} 
+
+.hanzi::after {
+    content: '>';
+}
+
 .portugues {
     color: var(--fundo);
     font-size: var(--texto-pequeno);
@@ -162,7 +172,7 @@ audio {
         width: 100vw;
     }
 
-    .ficha {
+    .ficha, .intro {
         width: 100vw;
         height:100vh;
     }
