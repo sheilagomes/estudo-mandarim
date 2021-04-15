@@ -3,17 +3,17 @@
 :root {
   --fundo: #F1CEB3;
   --ficha: #00000080;
-  --dark-color: #0A0A0A;
+  --cor-escura: #0A0A0A;
   --cor-texto: #FFEEBB;
   --intro-fundo: #FFEEBB00;
-  --texto-grande: 4rem;
-  --texto-normal: 2rem;
-  --texto-pequeno: 1rem;
-  --fonte: 'Roboto';
-  --tamanho-fonte-1: 100;
-  --tamanho-fonte-2: 300;
-  --tamanho-fonte-3: 400;
-  --tamanho-fonte-4: 700;
+  --texto-grande: 4em;
+  --texto-normal: 2em;
+  --texto-pequeno: 1em;
+  --fonte: 'Roboto', sans-serif;
+  --peso-fonte-1: 100;
+  --peso-fonte-2: 300;
+  --peso-fonte-3: 400;
+  --peso-fonte-4: 700;
 }
 
 body {
@@ -25,7 +25,7 @@ body {
     position: relative;
     color: var(--cor-texto);
     font-family: var(--fonte);
-    height: 100vh;
+    width: 100vw;
     display: flex;
     justify-content: center;
     align-items: center
@@ -33,8 +33,8 @@ body {
 
 .flip-img {
     background-color: transparent;
-    width: 400px;
-    height: 400px;
+    width: 100vw;
+    height:100vh;
     perspective: 1000px;
 }
 
@@ -58,20 +58,19 @@ body {
 }
 
 .flip-img-front {
-    background-color: var(--dark-color);
+    background-color: var(--cor-escura);
 }
 
 .flip-img-back {
-    background-color: var(--dark-color);
+    background-color: var(--cor-escura);
     transform: rotateY(180deg);
 }
 
-.intro {
+.intro, .frases, .perguntas {
     background-color: var(--ficha);
-    width: 400px;
-    height:400px;
-    padding: 1em 2em;
-    border-radius: 10px;
+    width: 100vw;
+    height:100vh;
+    margin: 1em;
     line-height: 1.5;
     display: flex;
     justify-content: center;
@@ -79,34 +78,43 @@ body {
     flex-direction: column;
 }
 
+.intro-titulo {
+    margin: 0;
+}
+
 .intro-texto {
-    font-weight: var(--tamanho-fonte-2);
+    font-weight: var(--peso-fonte-2);
+    padding: 2em 1em;
 }
 
 .intro-final {
-    font-weight: var(--tamanho-fonte-4);
+    font-weight: var(--peso-fonte-4);
 }
 
 .botoes {
     display: flex;
+    flex-direction: column;
     list-style: none;
     padding: 0;
+    margin: 0;
 }
 
-.seq, .ale {
+.seq, .ale, .fra, .per {
+    width: 100%;
+    text-align: center;
+    align-self: center;
     border: 1px solid var(--cor-texto);
     border-radius: 10%;
     padding: .5em .75em;
-    margin: 0 2em;
-    font-weight: var(--tamanho-fonte-3);
+    margin: .8em;
+    font-weight: var(--peso-fonte-3);
     font-size: 1.2em;
 }
 
 .ficha {
-    width: 400px;
-    height:400px;
+    width: 100vw;
+    height:100vh;
     padding: 1em 2em;
-    border-radius: 10px;
     background-color: var(--ficha);
     display: grid;
     grid-template-areas:
@@ -137,26 +145,12 @@ audio {
     grid-area: han;
 }
 
-.hanzi::before { 
-    content: 'hello';
-    position: absolute;
-    left: -2em;
-    top: 0;
-    width: 3em;
-    height: 3em;
-    border: 3em solid transparent;
-    border-left-color: yellow;
-} 
-
-.hanzi::after {
-    content: '>';
-}
-
 .portugues {
     color: var(--fundo);
     font-size: var(--texto-pequeno);
     font-style: italic;
     grid-area: por;
+    margin-left: .5em;
 }
 
 .categoria {
@@ -164,15 +158,55 @@ audio {
     font-size: var(--texto-pequeno);
     text-align: right;
     grid-area: cat;
+    margin-right: 1em;
 }
 
-@media only screen and (max-width: 600px) {
+.quadrado {
+    border: 1px dashed var(--cor-texto);
+}
+
+.frase-traduzida, .pergunta, .resposta {
+    font-size: var(--texto-normal);
+}
+
+@media only screen and (min-width: 600px) {
 
     body {
-        width: 100vw;
+        height: 100vh;
     }
 
-    .ficha, .intro {
-        width: 100vw;
-        height:100vh;
+    .flip-img {
+        width: 400px;
+        height: 400px;
     }
+
+    .intro, .ficha, .frases, .perguntas {
+        width: 400px;
+        height:400px;
+        padding: 1em 2em;
+        border-radius: 10px;
+    }
+
+    .intro-texto {
+        padding: 1em 0;
+    }
+
+    .botoes {
+        flex-direction: row;
+        flex-flow: row wrap;
+    }
+
+    .seq, .ale, .fra, .per {
+        flex: 1;
+        margin: 0 .8em .8em;
+        font-size: 1.3em;
+    }
+
+    .portugues {
+        margin-left: 0;
+    }
+
+    .categoria {
+        margin-right: 0;
+    }
+}
