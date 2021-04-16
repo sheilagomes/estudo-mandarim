@@ -16,6 +16,19 @@
   --peso-fonte-4: 700;
 }
 
+/*
+========
+ Seções 
+========
+- Geral
+- Intro
+- Ficha
+- Frases
+- Perguntas
+- Media Queries*/
+
+/*Geral*/
+
 body {
     background-color: var(--fundo);
     background-image: url("images/leon-liu-NiOyEHxAlpQ-unsplash.jpg");
@@ -66,6 +79,8 @@ body {
     transform: rotateY(180deg);
 }
 
+/*Intro*/
+
 .intro, .frases, .perguntas {
     background-color: var(--ficha);
     width: 100vw;
@@ -110,6 +125,8 @@ body {
     font-weight: var(--peso-fonte-3);
     font-size: 1.2em;
 }
+
+/*Ficha*/
 
 .ficha {
     width: 100vw;
@@ -161,13 +178,35 @@ audio {
     margin-right: 1em;
 }
 
+/*Frases*/
+
+.frases-hanzi {
+    margin: 1em;
+    display: flex;
+    justify-content: center;
+}
+
 .quadrado {
     border: 1px dashed var(--cor-texto);
 }
 
-.frase-traduzida, .pergunta, .resposta {
+.frase-original {
+    margin: 0;
+    padding-top: 1em;
+}
+
+.frases-hanzi {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.frase-original, .frase-traduzida, .pergunta, .resposta {
     font-size: var(--texto-normal);
 }
+
+/*Perguntas*/
+
+/*Media Queries*/
 
 @media only screen and (min-width: 600px) {
 
@@ -208,5 +247,9 @@ audio {
 
     .categoria {
         margin-right: 0;
+    }
+
+    .frases-hanzi {
+        margin: 0;
     }
 }
