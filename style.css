@@ -1,14 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700&display=swap');
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 :root {
   --fundo: #F1CEB3;
   --ficha: #00000080;
   --cor-escura: #0A0A0A;
   --cor-texto: #FFEEBB;
-  --intro-fundo: #FFEEBB00;
-  --texto-grande: 4em;
-  --texto-normal: 2em;
   --texto-pequeno: 1em;
+  --texto-normal: 1.5em;
+  --texto-medio: 3em;
+  --texto-grande: 4em;
   --fonte: 'Roboto', sans-serif;
   --peso-fonte-1: 100;
   --peso-fonte-2: 300;
@@ -30,10 +36,7 @@
 /*Geral*/
 
 body {
-    background-color: var(--fundo);
-    background-image: url("images/leon-liu-NiOyEHxAlpQ-unsplash.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
+    background: var(--fundo) url("images/leon-liu-NiOyEHxAlpQ-unsplash.jpg") no-repeat center;
     background-size: cover;
     position: relative;
     color: var(--cor-texto);
@@ -93,13 +96,9 @@ body {
     flex-direction: column;
 }
 
-.intro-titulo {
-    margin: 0;
-}
-
 .intro-texto {
     font-weight: var(--peso-fonte-2);
-    padding: 2em 1em;
+    padding: 1em;
 }
 
 .intro-final {
@@ -110,8 +109,6 @@ body {
     display: flex;
     flex-direction: column;
     list-style: none;
-    padding: 0;
-    margin: 0;
 }
 
 .seq, .ale, .fra, .per {
@@ -131,7 +128,7 @@ body {
 .ficha {
     width: 100vw;
     height:100vh;
-    padding: 1em 2em;
+    padding: 2em;
     background-color: var(--ficha);
     display: grid;
     grid-template-areas:
@@ -139,27 +136,6 @@ body {
     'pin pin pin'
     'han han han'
     'som som som';
-}
-
-.pinyin {
-    font-size: var(--texto-normal);
-    text-align: center;
-    grid-area: pin;
-}
-
-audio {
-    font-size: var(--texto-normal);
-    text-align: center;
-    margin-top: 0;
-    padding-bottom: 1em;
-    grid-area: som;
-}
-
-.hanzi {
-    font-size: var(--texto-grande);
-    text-align: center;
-    margin: 0;
-    grid-area: han;
 }
 
 .portugues {
@@ -178,30 +154,57 @@ audio {
     margin-right: 1em;
 }
 
+.pinyin {
+    font-size: var(--texto-normal);
+    text-align: center;
+    padding-top: 1em;
+    grid-area: pin;
+}
+
+.hanzi {
+    font-size: var(--texto-grande);
+    text-align: center;
+    grid-area: han;
+}
+
+audio {
+    font-size: var(--texto-normal);
+    text-align: center;
+    margin-top: 0;
+    padding-bottom: 1em;
+    grid-area: som;
+}
+
 /*Frases*/
 
+.frases {
+    line-height: 1;
+}
+
 .frases-hanzi {
-    margin: 1em;
     display: flex;
     justify-content: center;
+    align-items: space-around;
+    flex-wrap: wrap;
+    padding: 1em;
+}
+
+.hanzi-frase {
+    font-size: var(--texto-medio);
+    margin: .25em;
 }
 
 .quadrado {
     border: 1px dashed var(--cor-texto);
 }
 
-.frase-original {
-    margin: 0;
-    padding-top: 1em;
-}
-
-.frases-hanzi {
-    display: flex;
-    flex-wrap: wrap;
+.frase-pinyin {
+    padding: 0.5em 0;
 }
 
 .frase-original, .frase-traduzida, .pergunta, .resposta {
     font-size: var(--texto-normal);
+    text-align: center;
 }
 
 /*Perguntas*/
@@ -222,12 +225,12 @@ audio {
     .intro, .ficha, .frases, .perguntas {
         width: 400px;
         height:400px;
-        padding: 1em 2em;
+        padding: 2rem;
         border-radius: 10px;
     }
 
     .intro-texto {
-        padding: 1em 0;
+        padding: .8em 0;
     }
 
     .botoes {
@@ -238,7 +241,8 @@ audio {
     .seq, .ale, .fra, .per {
         flex: 1;
         margin: 0 .8em .8em;
-        font-size: 1.3em;
+        padding: .3em .5em;
+        font-size: 1.1em;
     }
 
     .portugues {
@@ -249,7 +253,7 @@ audio {
         margin-right: 0;
     }
 
-    .frases-hanzi {
-        margin: 0;
+    audio {
+        padding-bottom: 0;
     }
 }
