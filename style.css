@@ -11,6 +11,7 @@
   --ficha: #00000080;
   --cor-escura: #0A0A0A;
   --cor-texto: #FFEEBB;
+  --cor-fundo: #051345;
   --texto-pequeno: 1em;
   --texto-normal: 1.5em;
   --texto-medio: 3em;
@@ -38,7 +39,7 @@
 body {
     background: var(--fundo) url("images/leon-liu-NiOyEHxAlpQ-unsplash.jpg") no-repeat center;
     background-size: cover;
-    position: relative;
+    background-color: var(--cor-fundo);
     color: var(--cor-texto);
     font-family: var(--fonte);
     width: 100vw;
@@ -97,7 +98,8 @@ body {
 }
 
 .intro-titulo {
-    padding-top: 1em;
+    padding: 1em .5em;
+    text-align: center;
 }
 
 .intro-texto {
@@ -222,13 +224,21 @@ audio {
     transform: translateX(20px);
 }
 
-.botao-proximo {
+.frase-navega {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.botao-proximo, .botao-inicio {
     border: 1px solid var(--cor-texto);
     border-radius: 5px;
     padding: .5em .75em;
-    margin-top: .5em;
+    margin-top: 1em;
     font-size: var(--texto-pequeno);
 }
+
 /*Perguntas*/
 
 /*Media Queries*/
@@ -295,5 +305,14 @@ audio {
 
     .frase-resultado {
         padding-top: 1em;
+    }
+
+    .frase-navega {
+        flex-direction: row-reverse;
+        align-content: flex-end;
+    }
+
+    .botao-proximo, .botao-inicio {
+        margin: 0 3em;
     }
 }

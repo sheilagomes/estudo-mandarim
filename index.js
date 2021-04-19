@@ -8,6 +8,7 @@ const botaoAleatorio = document.querySelector(".ale")
 const botaoFrases = document.querySelector(".fra")
 const botaoPerguntas = document.querySelector(".per")
 const botaoProximo = document.querySelector(".botao-proximo")
+const botaoInicio = document.querySelector(".botao-inicio")
 const fraseTraduzida= document.querySelector(".frase-traduzida")
 let novoIndice = 1
 let indiceFrase = 0
@@ -108,7 +109,12 @@ botaoFrases.addEventListener("click", function() {
 botaoProximo.addEventListener("click", function() {
 	mostraHanzi = []
 	numeroSorteio = []
+	fraseTraduzidaFinal = 
 	criaHanzi()
+})
+
+botaoInicio.addEventListener("click", function() {
+	location.reload(true);
 })
 
 // botaoPerguntas.addEventListener("click", function() {
