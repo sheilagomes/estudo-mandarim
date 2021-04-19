@@ -44,7 +44,7 @@ body {
     width: 100vw;
     display: flex;
     justify-content: center;
-    align-items: center
+    align-items: center;
 }
 
 .flip-img {
@@ -91,9 +91,13 @@ body {
     margin: 1em;
     line-height: 1.5;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     flex-direction: column;
+}
+
+.intro-titulo {
+    padding-top: 1em;
 }
 
 .intro-texto {
@@ -179,23 +183,22 @@ audio {
 
 .frases {
     line-height: 1;
+    display: flex;
+    justify-content: center;
+    align-content: space-around;
 }
 
 .frases-hanzi {
     display: flex;
-    justify-content: center;
-    align-content: space-between;
     flex-wrap: wrap;
-    padding: 1em;
+    justify-content: space-between;
+    align-content: space-between;
+    padding: 2em;
 }
 
 .hanzi-frase {
     font-size: var(--texto-medio);
-    margin: .25em;
-}
-
-.quadrado {
-    border: 1px dashed var(--cor-texto);
+    margin: .2em;
 }
 
 .frase-pinyin {
@@ -205,6 +208,18 @@ audio {
 .frase-original, .frase-traduzida, .pergunta, .resposta {
     font-size: var(--texto-normal);
     text-align: center;
+}
+
+.certo {
+    opacity: 0;
+    color: lightgreen;
+    font-size: var(--texto-medio);
+}
+
+.frase-resultado {
+    padding-top: 1em;
+    display: flex;
+    transform: translateX(20px);
 }
 
 /*Perguntas*/
@@ -218,24 +233,30 @@ audio {
     }
 
     .flip-img {
-        width: 400px;
+        width: 600px;
         height: 400px;
     }
 
     .intro, .ficha, .frases, .perguntas {
-        width: 400px;
+        width: 600px;
         height:400px;
         padding: 2rem;
         border-radius: 10px;
     }
 
+    .intro-titulo {
+        padding-top: 0;
+    }
+
     .intro-texto {
-        padding: .8em 0;
+        padding: 1em 0;
+        line-height: 1.7;
     }
 
     .botoes {
         flex-direction: row;
         flex-flow: row wrap;
+        padding: 1em 0 0 0;
     }
 
     .seq, .ale, .fra, .per {
@@ -255,5 +276,17 @@ audio {
 
     audio {
         padding-bottom: 0;
+    }
+
+    .frases-hanzi {
+        padding: 2em 1em;
+    }
+
+    .hanzi-frase {
+        margin: .1em;
+    }
+
+    .frase-resultado {
+        padding-top: 1em;
     }
 }
