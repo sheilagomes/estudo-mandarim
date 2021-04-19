@@ -222,6 +222,13 @@ audio {
     transform: translateX(20px);
 }
 
+.botao-proximo {
+    border: 1px solid var(--cor-texto);
+    border-radius: 5px;
+    padding: .5em .75em;
+    margin-top: .5em;
+    font-size: var(--texto-pequeno);
+}
 /*Perguntas*/
 
 /*Media Queries*/

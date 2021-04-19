@@ -7,6 +7,7 @@ const botaoSequencial = document.querySelector(".seq")
 const botaoAleatorio = document.querySelector(".ale")
 const botaoFrases = document.querySelector(".fra")
 const botaoPerguntas = document.querySelector(".per")
+const botaoProximo = document.querySelector(".botao-proximo")
 const fraseTraduzida= document.querySelector(".frase-traduzida")
 let novoIndice = 1
 let indiceFrase = 0
@@ -104,6 +105,12 @@ botaoFrases.addEventListener("click", function() {
 	criaHanzi()
 })
 
+botaoProximo.addEventListener("click", function() {
+	mostraHanzi = []
+	numeroSorteio = []
+	criaHanzi()
+})
+
 // botaoPerguntas.addEventListener("click", function() {
 // 	viraFicha("ficha", "frases")
 // })
@@ -117,12 +124,7 @@ proximaFicha.addEventListener("click", function() {
 
 for (let i = 0; i < montagemFrase.length - 1; i++) {
 	montagemFrase[i].addEventListener("click", function() {
-		console.log("i: " + i)
-		console.log("frase: " + frases[fraseInicial][2])
-		console.log("montagemFrase[i].innerHTML: " + montagemFrase[i].innerHTML)
-		console.log("frases[fraseInicial][2][quantidadeDeHanziCertos]: " + frases[fraseInicial][2][quantidadeDeHanziCertos])
 		if (montagemFrase[i].innerHTML == frases[fraseInicial][2][quantidadeDeHanziCertos]) {
-			console.log("entrou no if")
 			fraseTraduzidaFinal.push(`${montagemFrase[i].innerHTML}`)
 			document.querySelector(".frase-traduzida").innerHTML = `${fraseTraduzidaFinal.toString().replaceAll(",","")}`
 			quantidadeDeHanziCertos += 1
