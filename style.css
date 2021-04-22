@@ -117,7 +117,7 @@ body {
     background-color: transparent;
     border-radius: 10%;
     padding: .5em .75em;
-    margin: .8em;
+    margin: 0.8em 0 1.5em;/*.8em;*/
     font-weight: var(--peso-fonte-3);
     font-size: 1.3em;
     cursor: pointer;
@@ -211,6 +211,7 @@ audio {
     display: flex;
     justify-content: center;
     align-content: space-around;
+    padding: 1em;
 }
 
 .frases-hanzi {
@@ -218,7 +219,7 @@ audio {
     flex-wrap: wrap;
     justify-content: space-between;
     align-content: space-between;
-    padding: 2em;
+    padding-top: .5em;
 }
 
 .hanzi-frase {
@@ -291,6 +292,10 @@ audio {
     .intro-texto {
         padding: 1em 0;
         line-height: 1.7;
+    }
+
+    .botao-menu {
+        margin: .8em;
     }
 
     .portugues {
