@@ -7,11 +7,11 @@
 }
 
 :root {
-  --fundo: #F1CEB3;
-  --ficha: #00000080;
-  --cor-escura: #0A0A0A;
+  --cor-ficha: #00000080;
+  --cor-escura: #00132E;
   --cor-texto: #FFEEBB;
-  --cor-fundo: #051345;
+  --cor-fundo-1: #F1CEB3;
+  --cor-fundo-2: #61363A;
   --texto-pequeno: 1em;
   --texto-normal: 1.5em;
   --texto-medio: 3em;
@@ -37,9 +37,9 @@
 /*Geral*/
 
 body {
-    background: var(--fundo) url("images/leon-liu-NiOyEHxAlpQ-unsplash.jpg") no-repeat center;
+    background: var(--cor-fundo-1) url("images/leon-liu-NiOyEHxAlpQ-unsplash.jpg") no-repeat center;
     background-size: cover;
-    background-color: var(--cor-fundo);
+    background-color: var(--cor-fundo-2);
     color: var(--cor-texto);
     font-family: var(--fonte);
     width: 100vw;
@@ -86,7 +86,7 @@ body {
 /*Intro*/
 
 .intro, .frases, .perguntas {
-    background-color: var(--ficha);
+    background-color: var(--cor-ficha);
     width: 100vw;
     height:100vh;
     margin: 1em;
@@ -111,22 +111,45 @@ body {
     font-weight: var(--peso-fonte-4);
 }
 
-.botoes {
-    display: flex;
-    flex-direction: column;
-    list-style: none;
-}
-
-.seq, .ale, .fra, .per {
-    width: 100%;
-    text-align: center;
-    align-self: center;
+.botao-menu {
+    color: var(--cor-texto);
     border: 1px solid var(--cor-texto);
+    background-color: transparent;
     border-radius: 10%;
     padding: .5em .75em;
     margin: .8em;
     font-weight: var(--peso-fonte-3);
-    font-size: 1.2em;
+    font-size: 1.3em;
+    cursor: pointer;
+}
+
+.menu-suspenso {
+    position: relative;
+    display: inline-block;
+}
+
+.menu-paginas {
+    display: none;
+    position: absolute;
+    background-color: var(--cor-fundo-2);
+    min-width: max-content;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 15px;
+}
+
+.menu-paginas p {
+    padding: 1em 1.5em;
+    border-radius: 15px;
+}
+
+.menu-paginas p:hover {
+    background-color: var(--cor-escura);
+}
+
+.menu-suspenso:hover .menu-paginas {
+    display: block;
+    bottom: 100%; 
 }
 
 /*Ficha*/
@@ -135,7 +158,7 @@ body {
     width: 100vw;
     height:100vh;
     padding: 2em;
-    background-color: var(--ficha);
+    background-color: var(--cor-ficha);
     display: grid;
     grid-template-areas:
     'por . cat'
@@ -145,7 +168,7 @@ body {
 }
 
 .portugues {
-    color: var(--fundo);
+    color: var(--cor-fundo-1);
     font-size: var(--texto-pequeno);
     font-style: italic;
     grid-area: por;
@@ -153,7 +176,7 @@ body {
 }
 
 .categoria {
-    color: var(--fundo);
+    color: var(--cor-fundo-1);
     font-size: var(--texto-pequeno);
     text-align: right;
     grid-area: cat;
@@ -268,19 +291,6 @@ audio {
     .intro-texto {
         padding: 1em 0;
         line-height: 1.7;
-    }
-
-    .botoes {
-        flex-direction: row;
-        flex-flow: row wrap;
-        padding: 1em 0 0 0;
-    }
-
-    .seq, .ale, .fra, .per {
-        flex: 1;
-        margin: 0 .8em .8em;
-        padding: .3em .5em;
-        font-size: 1.1em;
     }
 
     .portugues {

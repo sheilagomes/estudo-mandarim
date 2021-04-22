@@ -9,7 +9,8 @@ const botaoFrases = document.querySelector(".fra")
 const botaoPerguntas = document.querySelector(".per")
 const botaoProximo = document.querySelector(".botao-proximo")
 const botaoInicio = document.querySelector(".botao-inicio")
-const fraseTraduzida= document.querySelector(".frase-traduzida")
+const fraseTraduzida = document.querySelector(".frase-traduzida")
+const menuSuspenso = document.querySelector(".botao-menu")
 let novoIndice = 1
 let indiceFrase = 0
 let botaoSelecionado = ""
@@ -90,6 +91,11 @@ function criaHanzi() {
     }
 }
 
+menuSuspenso.addEventListener("click", function() {
+	document.querySelector(".menu-suspenso .menu-paginas").style.backgroundColor = "#61363A"
+	document.querySelector(".menu-suspenso .menu-paginas").style.display = "block"
+	document.querySelector(".menu-suspenso .menu-paginas").style.bottom = "100%"
+})
 
 botaoSequencial.addEventListener("click", function() {
 	viraFicha("frases", "perguntas")
@@ -109,7 +115,10 @@ botaoFrases.addEventListener("click", function() {
 botaoProximo.addEventListener("click", function() {
 	mostraHanzi = []
 	numeroSorteio = []
-	fraseTraduzidaFinal = 
+	fraseTraduzidaFinal = []
+	document.querySelector(".certo").style.opacity = `0`
+	quantidadeDeHanziCertos = 0
+	document.querySelector(".frase-traduzida").innerHTML = ""
 	criaHanzi()
 })
 
