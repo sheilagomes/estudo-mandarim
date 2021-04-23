@@ -15,8 +15,8 @@ let novoIndice = 1
 let indiceFrase = 0
 let botaoSelecionado = ""
 let mostraHanzi = []
-let hanziSorteio = listaDePalavras[sorteio(0, listaDePalavras.length-1)][3][0]
-let listaSorteio = 0
+let hanziSorteio = sorteio(0, 15)
+let listaSorteio = listaDePalavras[sorteio(0, listaDePalavras.length-1)][3][0]
 let numeroSorteio = []
 let fraseInicial = 0
 let fraseTraduzidaFinal = []
@@ -70,24 +70,31 @@ function criaHanzi() {
 	fraseInicial = sorteio(0, frases.length-1)
 	document.querySelector(".frase-original").innerHTML = `${frases[fraseInicial][0]}`
 	document.querySelector(".frase-pinyin").innerHTML = `${frases[fraseInicial][1]}`
-    for(let j = 0; j < 16; j++) {
-    	while (mostraHanzi.includes(hanziSorteio)) {
-    		hanziSorteio = listaDePalavras[sorteio(0, listaDePalavras.length-1)][3][0]
+    for(let i = 0; i < 16; i++) {
+    	while (numeroSorteio.includes(hanziSorteio)) {
+    		hanziSorteio = sorteio(0, 15)
     	}
-    	mostraHanzi.push(hanziSorteio)
+    	numeroSorteio.push(hanziSorteio)
     }
-    listaSorteio = sorteio(0, 15)
-    for(let k = 0; k < frases[fraseInicial][2].length; k++) {
-	    while (numeroSorteio.includes(listaSorteio)) {
-    		listaSorteio = sorteio(0, 15)
+    let k = 0
+    let l = 0
+    while (l < frases[fraseInicial][2].length) {
+    	if (!(mostraHanzi.includes(frases[fraseInicial][2][l]))) {
+    		mostraHanzi[numeroSorteio[k]] = frases[fraseInicial][2][l]
+    		k++
     	}
-    	numeroSorteio[k] = listaSorteio
+    	l++
 	}
-    for(let l = 0; l < numeroSorteio.length; l++) {
-    	mostraHanzi[numeroSorteio[l]] =(frases[fraseInicial][2][l])
-    }
-    for(let m = 0; m < 16; m++) {
-    	document.querySelector(`.frase-hanzi-${m}`).innerHTML = `${mostraHanzi[m]}`
+
+    for(let m = k; m < 16; m++) {
+	    while (mostraHanzi.includes(listaSorteio)) {
+    		listaSorteio = listaDePalavras[sorteio(0, listaDePalavras.length-1)][3][0]
+    	}
+    	mostraHanzi[numeroSorteio[m]] = listaSorteio
+	}
+
+    for(let n = 0; n < 16; n++) {
+    	document.querySelector(`.frase-hanzi-${n}`).innerHTML = `${mostraHanzi[n]}`
     }
 }
 
@@ -137,7 +144,7 @@ proximaFicha.addEventListener("click", function() {
 	})
 })
 
-for (let i = 0; i < montagemFrase.length - 1; i++) {
+for (let i = 0; i < montagemFrase.length; i++) {
 	montagemFrase[i].addEventListener("click", function() {
 		if (montagemFrase[i].innerHTML == frases[fraseInicial][2][quantidadeDeHanziCertos]) {
 			fraseTraduzidaFinal.push(`${montagemFrase[i].innerHTML}`)
