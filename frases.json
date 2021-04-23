@@ -1,0 +1,11 @@
+{
+"frases":[
+  {"portugues":"Eu estou bem", "pinyin":"wǒ hěn hǎo", "mandarim":"我很好"},
+  {"portugues":"Seu pai é professor", "pinyin":"nǐ de bàba shì lǎoshī", "mandarim":"你的爸爸是老师"},
+  {"portugues":"Eu sou o professor de vocês", "pinyin":"wǒ shì nǐmen de lǎoshī", "mandarim":"我是你们的老师"},
+  {"portugues":"Ele é meu irmão mais velho, não é meu colega de estudo", "pinyin":"tā shì wǒ de gēgē, búshì wǒ de tóngxué", "mandarim":"他是我的哥哥不是我的同学"},
+  {"portugues":"O seu professor é amigo da minha mãe", "pinyin":"nǐ de lǎoshī shì wǒ de māmā de péngyǒu", "mandarim":"你的老师是我的妈妈的朋友"},
+  {"portugues":"O senhor Lin é amigo do professor", "pinyin":"línxiānshēng shì lǎoshī de péngyǒu", "mandarim":"林先生是老师的朋友"},
+  {"portugues":"Eu não me chamo anna", "pinyin":"wǒ bú jiào ānnà", "mandarim":"我不叫安娜"}
+]
+}
