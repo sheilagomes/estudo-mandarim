@@ -150,6 +150,9 @@ body {
     display: block;
     bottom: 100%; 
 }
+ .per {
+    color: var(--cor-escura);
+ }
 
 /*Ficha*/
 
