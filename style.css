@@ -106,6 +106,10 @@ body {
     padding: 1em;
 }
 
+.intro-meio {
+    font-weight: var(--peso-fonte-3);
+}
+
 .intro-final {
     font-weight: var(--peso-fonte-4);
 }
