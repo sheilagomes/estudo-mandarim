@@ -1,98 +1,78 @@
 <!DOCTYPE html>
 <html lang="pt">
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Estudo de mandarim</title>
-	<link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Estudo de mandarim</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-	<main>
-		<div class="flip-img">
-			<div class="flip-img-inner">
-				<div class="flip-img-front intro">
-					<h1 class="intro-titulo">Estudo de mandarim</h1>
-					<p class="intro-texto">Escolha sua opção clicando ou tocando no menu <span class="intro-meio">Pŕatica</span> abaixo. A opção <span class="intro-meio">fichas</span> mostra palavras em português, sua categoria, a versão em pinyin e mandarim, e oferece a opção de ouvir a pronúncia. A seção <span class="intro-meio">tradução de frases</span> mostra frases em português, pinyin e os sinogramas  necessários que devem ser clicados para formar a frase em mandarim. A seção <span class="intro-meio">perguntas e respostas</span> estará disponível em breve. <span class="intro-final">Bons estudos!</span></p>
-					<div class="menu-suspenso">
-					  <button class="botao-menu">Prática</button>
-					  <div class="menu-paginas">
-						<p class="ale">fichas</p>
-						<p class="fra">tradução de frases</p>
-						<p class="per">perguntas e respostas</p>
-					  </div>
-					</div>
-                </div>
-                <div class="flip-img-back ficha">
-                	<p class="pinyin">rì</p>
-                	<p class="hanzi">日</p>
-                	<p class="portugues">sol</p>
-                	<p class="categoria">GERAL</p>
-                	<audio id="audio-volume">
-                		<source src="sounds/ri.mp3" type="audio/mpeg">
-                		O navegador não pode reproduzir sons.
-                	</audio>
-                    <div class="botoes">
-                        <p class="botao-geral botao-voltar">Início</p>
-                        <p class="botao-geral" id="botao-som">Som</p>
-                        <p class="botao-geral" id="botao-ficha">Próximo</p>
-                    </div>
-                </div>
-                <div class="flip-img-back frases">
-                	<p class="frase-original"></p>
-                	<p class="frase-pinyin"></p>
-                	<div class="frases-hanzi">
-                		<p class="frase-hanzi-0 hanzi hanzi-frase"></p>
-                		<p class="frase-hanzi-1 hanzi hanzi-frase"></p>
-                		<p class="frase-hanzi-2 hanzi hanzi-frase"></p>
-                		<p class="frase-hanzi-3 hanzi hanzi-frase"></p>
-                		<p class="frase-hanzi-4 hanzi hanzi-frase"></p>
-                		<p class="frase-hanzi-5 hanzi hanzi-frase"></p>
-                		<p class="frase-hanzi-6 hanzi hanzi-frase"></p>
-                		<p class="frase-hanzi-7 hanzi hanzi-frase"></p>
-                		<p class="frase-hanzi-8 hanzi hanzi-frase"></p>
-                		<p class="frase-hanzi-9 hanzi hanzi-frase"></p>
-                		<p class="frase-hanzi-10 hanzi hanzi-frase"></p>
-                		<p class="frase-hanzi-11 hanzi hanzi-frase"></p>
-                		<p class="frase-hanzi-12 hanzi hanzi-frase"></p>
-                		<p class="frase-hanzi-13 hanzi hanzi-frase"></p>
-                		<p class="frase-hanzi-14 hanzi hanzi-frase"></p>
-                		<p class="frase-hanzi-15 hanzi hanzi-frase"></p>
-                	</div>
-                	<div class="frase-resultado">
-	                	<p class="frase-traduzida">_</p>
-	                	<p class="certo">&#10003;</p>
-                	</div>
-                	<div class="frase-navega">
-	                	<p class="botao-proximo">próxima frase</p>
-	                	<p class="botao-inicio">voltar ao início</p>
-	                </div>
-                </div>
-                <div class="flip-img-back perguntas">
-                	<p class="pergunta"></p>
-                	<p class="pergunta-pinyin"></p>
-                	<p class="pergunta-portugues"></p>
-                	<div>
-                		<p class="opcao-hanzi-1 hanzi"></p>
-                		<p class="opcao-hanzi-2 hanzi"></p>
-                		<p class="opcao-hanzi-3 hanzi"></p>
-                		<p class="opcao-hanzi-4 hanzi"></p>
-                	</div>
-                	<p class="resposta"></p>
-                	<p class="resposta-pinyin"></p>
-                	<div class="frase-navega">
-	                	<p class="botao-proximo">próxima frase</p>
-	                	<p class="botao-inicio">voltar ao início</p>
-	                </div>
-                </div>
-                <div class="flip-img-back numeros">
-                	<p class="numero">1205</p>
-                	<p class="opcoes-hanzi hanzi">我叫谁拉</p>
-                	<p class="resposta">我叫谁拉</p>
-                	<p class="resposta-pinyin">wǒ jiào Shéi lā</p>
-                </div>
+  <main>
+    <div class="flip-img">
+      <div class="flip-img-inner">
+        <div class="flip-img-front intro">
+          <h1 class="intro-titulo">Estudo de mandarim</h1>
+          <p class="intro-texto">
+            Escolha sua opção clicando ou tocando no menu <span class="intro-meio">Prática</span> abaixo.
+            A opção <span class="intro-meio">fichas</span> mostra palavras em português, sua categoria, a versão em pinyin e mandarim, e oferece a opção de ouvir a pronúncia.
+            A seção <span class="intro-meio">tradução de frases</span> mostra frases em português, pinyin e os sinogramas necessários que devem ser clicados para formar a frase em mandarim.
+            A seção <span class="intro-meio">perguntas e respostas</span> exibe perguntas em mandarim — toque na pergunta para revelar a resposta.
+            <span class="intro-final">Bons estudos!</span>
+          </p>
+          <div class="menu-suspenso">
+            <button class="botao-menu" type="button">Prática</button>
+            <div class="menu-paginas">
+              <p class="ale">fichas</p>
+              <p class="fra">tradução de frases</p>
+              <p class="per">perguntas e respostas</p>
             </div>
+          </div>
         </div>
-	</main>
-	<script src="index.js"></script>
+
+        <div class="flip-img-back ficha">
+          <p class="pinyin">rì</p>
+          <p class="hanzi">日</p>
+          <p class="portugues">sol</p>
+          <p class="categoria">GERAL</p>
+          <audio id="audio-volume">
+            <source src="sounds/ri.mp3" type="audio/mpeg">
+            O navegador não pode reproduzir sons.
+          </audio>
+          <div class="botoes">
+            <p class="botao-geral botao-voltar">Início</p>
+            <p class="botao-geral" id="botao-som">Som</p>
+            <p class="botao-geral" id="botao-ficha">Próximo</p>
+          </div>
+        </div>
+
+        <div class="flip-img-back frases">
+          <p class="frase-original"></p>
+          <p class="frase-pinyin"></p>
+          <div class="frases-hanzi" id="frases-hanzi"></div>
+          <div class="frase-resultado">
+            <p class="frase-traduzida">_</p>
+            <p class="certo">&#10003;</p>
+          </div>
+          <div class="frase-navega">
+            <p class="botao-proximo">próxima frase</p>
+            <p class="botao-inicio">voltar ao início</p>
+          </div>
+        </div>
+
+        <div class="flip-img-back perguntas">
+          <p class="pergunta"></p>
+          <p class="pergunta-pinyin"></p>
+          <p class="pergunta-portugues"></p>
+          <p class="resposta"></p>
+          <p class="resposta-pinyin"></p>
+          <div class="frase-navega">
+            <p class="botao-proximo">próxima pergunta</p>
+            <p class="botao-inicio">voltar ao início</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+  <script src="index.js"></script>
 </body>
 </html>

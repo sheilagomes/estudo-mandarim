@@ -1,0 +1,788 @@
+[
+  {
+    "portugues": "Eu estou bem",
+    "pinyin": "wǒ hěn hǎo",
+    "mandarim": "我很好",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Seu pai é professor",
+    "pinyin": "nǐ de bàba shì lǎoshī",
+    "mandarim": "你的爸爸是老师",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Eu sou o professor de vocês",
+    "pinyin": "wǒ shì nǐmen de lǎoshī",
+    "mandarim": "我是你们的老师",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Ele é meu irmão mais velho, não é meu colega de estudo",
+    "pinyin": "tā shì wǒ de gēgē, búshì wǒ de tóngxué",
+    "mandarim": "他是我的哥哥不是我的同学",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Seu professor é amigo da minha mãe",
+    "pinyin": "nǐ de lǎoshī shì wǒ de māmā de péngyǒu",
+    "mandarim": "你的老师是我的妈妈的朋友",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "O senhor Lin é amigo do professor",
+    "pinyin": "línxiānshēng shì lǎoshī de péngyǒu",
+    "mandarim": "林先生是老师的朋友",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Eu não me chamo anna",
+    "pinyin": "wǒ bú jiào ānnà",
+    "mandarim": "我不叫安娜",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Eu sou professora",
+    "pinyin": "wǒ shì lǎoshī",
+    "mandarim": "我是老师",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Ele é nosso amigo",
+    "pinyin": "tā shì wǒmen de péngyǒu",
+    "mandarim": "他是我们的朋友",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Sua professora é amiga da minha mãe",
+    "pinyin": "nǐ de lǎoshī shì wǒ de māmā de péngyǒu",
+    "mandarim": "你的老师是我的妈妈的朋友",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Ele é meu pai",
+    "pinyin": "tā shì wǒ de bàba",
+    "mandarim": "他是我的爸爸",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Eu me chamo li mei li",
+    "pinyin": "wǒ jiào lǐ měi lì",
+    "mandarim": "我叫李美丽",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Ela se chama anna, ela é minha colega de estudo",
+    "pinyin": "tā jiào ānnà tā shì wǒ de tóngxué",
+    "mandarim": "她叫安娜她是我的同学",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Não é",
+    "pinyin": "bú shì",
+    "mandarim": "不是",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "quinze estudantes",
+    "pinyin": "shí wǔ ge xuéshēng",
+    "mandarim": "十五个学生",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "oito mesas",
+    "pinyin": "bā zhāng zhuōzi",
+    "mandarim": "八张桌子",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Eu tenho 5 cadeiras.",
+    "pinyin": "wǒ yǒu wǔ zhāng yǐzi",
+    "mandarim": "我有五张椅子",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Minha escola tem 25 professores.",
+    "pinyin": "wǒ de xuéxiào yǒu èr shí wǔ ge lǎoshī",
+    "mandarim": "我的学校有二十五个老师",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Minha escola tem 358 estudantes.",
+    "pinyin": "wǒ de xuéxiào yǒu sān bǎi wǔ shí bā ge xuéshēng",
+    "mandarim": "我的学校有三百五十八个学生",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Eu tenho 2 cadernos.",
+    "pinyin": "wǒ yǒu liǎng běn bǐjìběn",
+    "mandarim": "我有两本笔记本",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Eu não tenho lápis",
+    "pinyin": "wǒ méi yǒu qiānbǐ",
+    "mandarim": "我没有铅笔",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Eu quero comprar 2 canetas",
+    "pinyin": "wǒ yào mǎi liǎng zhī bǐ",
+    "mandarim": "我要买两支笔",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Lin Shuimu tem uma borracha, três canetas e dois lápis.",
+    "pinyin": "Lín shuǐmù yǒu yī gè cāzi, sān zhī bǐ hé liǎng zhī qiānbǐ",
+    "mandarim": "林水木有一个擦子,三支笔和两支铅笔",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Laura tem um dicionário, um lápis e uma régua.",
+    "pinyin": "luólā yǒu yī běn zìdiǎn, yī zhī qiānbǐ hé yī zhī chǐ",
+    "mandarim": "罗拉有一本字典,一支铅笔和一支尺",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Anderson tem duas réguas e um mapa.",
+    "pinyin": "āndésēn yǒu liǎng zhī chǐ hé yī zhāng dìtú",
+    "mandarim": "安德森有二支尺和一张地图",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Paul Chen tem um caderno, um lápis e duas folhas de papel.",
+    "pinyin": "chénbǎoluó yǒu yī běn bǐjìběn, yī zhī qiānbǐ hé liǎng zhāng zhǐ",
+    "mandarim": "陈保罗有一本笔记本,一支铅笔和两张纸",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "98",
+    "pinyin": "jiǔ shí bā",
+    "mandarim": "九十八",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "165",
+    "pinyin": "yī bǎi liù shí wǔ",
+    "mandarim": "一百六十五",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "256",
+    "pinyin": "èr bǎi wǔ shí liù",
+    "mandarim": "二百五十六",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "890",
+    "pinyin": "bā bǎi jiǔ shí",
+    "mandarim": "八百九十",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "1096",
+    "pinyin": "yī qiān líng jiǔ shí liù",
+    "mandarim": "一千零九十六",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "2560",
+    "pinyin": "liǎng qiān wǔ bǎi liù shí",
+    "mandarim": "两千五百六十",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "9876",
+    "pinyin": "jiǔ qiān bā bǎi qī shí liù",
+    "mandarim": "九千八百七十六",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Aqui não tem mesa",
+    "pinyin": "zhèlǐ méi yǒu zhuōzi",
+    "mandarim": "这里没有桌子",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "567",
+    "pinyin": "wǔ bǎi liù shí qī",
+    "mandarim": "五百六十七",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "403",
+    "pinyin": "sì bǎi líng sān",
+    "mandarim": "四百零三",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "3589",
+    "pinyin": "sān qiān wǔ bǎi bā shí jiǔ",
+    "mandarim": "三千五百八十九",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "1005",
+    "pinyin": "yī qiān líng wǔ",
+    "mandarim": "一千零五",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "9045",
+    "pinyin": "jiǔ qiān líng sì shí wǔ",
+    "mandarim": "九千零四十五",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "28",
+    "pinyin": "èr shí bā",
+    "mandarim": "二十八",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "840",
+    "pinyin": "bā bǎi sì shí",
+    "mandarim": "八百四十",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "4204",
+    "pinyin": "sì qiān èr bǎi líng sì",
+    "mandarim": "四千二百零四",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Quero ver televisão",
+    "pinyin": "wǒ xiǎng kàn diànshì",
+    "mandarim": "我想看电视",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Eu assisto televisão",
+    "pinyin": "wǒ kàn diànshì",
+    "mandarim": "我看电视",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Eu não assisto televisão",
+    "pinyin": "wǒ bú kàn diànshì",
+    "mandarim": "我不看电视",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Minha mãe gosta de ler livros",
+    "pinyin": "wǒ de māmā xǐhuan kàn shū",
+    "mandarim": "我的妈妈喜欢看书",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Quero comprar dois dicionários e cinco canetas.",
+    "pinyin": "wǒ xiǎng mǎi liǎng běn zìdiǎn hé wǔ zhī bǐ",
+    "mandarim": "我想买两本字典和五支笔。",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Gosto de jogar jogos de computador.",
+    "pinyin": "wǒ xǐhuan wán diànnǎo yóuxì",
+    "mandarim": "我喜欢玩电脑游戏。",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Gosto de assistir futebol, mas não sei jogar futebol.",
+    "pinyin": "wǒ xǐhuan kàn zú qiú dànshì wǒ bú huì wán zú qiú",
+    "mandarim": "我喜欢看足球，但是我不会玩足球。",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Meu irmão sabe falar chinês, mas eu não.",
+    "pinyin": "wǒ de gēge huì zhōngwén dànshì wǒ bú huì",
+    "mandarim": "我的哥哥会中文，但是我不会。",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Eu sei dirigir, mas não tenho carro.",
+    "pinyin": "wǒ huì kāichē dànshì wǒ méi yǒu chē",
+    "mandarim": "我会开车，但是我没有车。",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Minha irmã mais velha gosta de comprar livros, mas não gosta de ler.",
+    "pinyin": "wǒ de jiějie xǐhuan mǎi shū dànshì bù xǐhuan kàn shū",
+    "mandarim": "我的姐姐喜欢买书，但是不喜欢看书。",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "Gosto de ouvir músicas em espanhol.",
+    "pinyin": "wǒ xǐhuan tīng xībānyá yǔ de gē",
+    "mandarim": "我喜欢听西班牙语的歌。",
+    "licao": "anterior"
+  },
+  {
+    "portugues": "A que horas você dormiu ontem à noite?",
+    "pinyin": "nǐ zuótiān wǎnshàng jǐ diǎn shuì de?",
+    "mandarim": "你昨天晚上几点睡的？",
+    "licao": "L01-Horas"
+  },
+  {
+    "portugues": "A que horas você tomou café da manhã hoje?",
+    "pinyin": "nǐ jīntiān jǐ diǎn chī de zǎofàn?",
+    "mandarim": "你今天几点吃的早饭？",
+    "licao": "L01-Horas"
+  },
+  {
+    "portugues": "A que horas você vai assistir à aula de chinês amanhã?",
+    "pinyin": "nǐ míngtiān jǐ diǎn shàng zhōngwén kè?",
+    "mandarim": "你明天几点上中文课？",
+    "licao": "L01-Horas"
+  },
+  {
+    "portugues": "A que horas seu pai volta para casa todos os dias?",
+    "pinyin": "nǐ bàba měitiān jǐ diǎn huí jiā?",
+    "mandarim": "你爸爸每天几点回家？",
+    "licao": "L01-Horas"
+  },
+  {
+    "portugues": "Eu saio de casa todos os dias às 14:30.",
+    "pinyin": "wǒ měitiān liǎng diǎn bàn chūmén.",
+    "mandarim": "我每天两点半出门。",
+    "licao": "L01-Horas"
+  },
+  {
+    "portugues": "Eu tenho aula às 7:15, mas agora são 7:30.",
+    "pinyin": "wǒ qī diǎn yí kè shàngkè, dànshì xiànzài qī diǎn bàn le.",
+    "mandarim": "我七点一刻上课，但是现在七点半了。",
+    "licao": "L01-Horas"
+  },
+  {
+    "portugues": "Meu irmão mais velho dorme muito tarde todos os dias. Ontem ele foi dormir às 5:00.",
+    "pinyin": "wǒ gēge měitiān hěn wǎn shuìjiào. zuótiān tā wǔ diǎn cái shuì.",
+    "mandarim": "我哥哥每天很晚睡觉。昨天他五点才睡。",
+    "licao": "L01-Horas"
+  },
+  {
+    "portugues": "Agora são 18:00 em ponto.",
+    "pinyin": "xiànzài shì xiàwǔ liù diǎn zhōng.",
+    "mandarim": "现在是下午六点钟。",
+    "licao": "L01-Horas"
+  },
+  {
+    "portugues": "Meu pai vai ao trabalho todos os dias às 6:00 em ponto.",
+    "pinyin": "wǒ bàba měitiān zǎoshang liù diǎn zhěng qù shàngbān.",
+    "mandarim": "我爸爸每天早上六点整去上班。",
+    "licao": "L01-Horas"
+  },
+  {
+    "portugues": "Agora são 15 para às 2:00.",
+    "pinyin": "xiànzài chà yí kè liǎng diǎn.",
+    "mandarim": "现在差一刻两点。",
+    "licao": "L01-Horas"
+  },
+  {
+    "portugues": "A que horas jantamos? Hoje jantaremos às 21:00. Agora são 10 para às 21:00.",
+    "pinyin": "jǐ diǎn chī wǎnfàn? jīntiān wǒmen jiǔ diǎn chī wǎnfàn. xiànzài chà shí fēn jiǔ diǎn.",
+    "mandarim": "几点吃晚饭？今天我们九点吃晚饭。现在差十分九点。",
+    "licao": "L01-Horas"
+  },
+  {
+    "portugues": "Eu saio de casa às 8:20, acorde-me 10 para às 8:00, por favor.",
+    "pinyin": "wǒ bā diǎn èrshí fēn chūmén, qǐng chà shí fēn bā diǎn jiào wǒ qǐchuáng.",
+    "mandarim": "我八点二十分出门，请差十分八点叫我起床。",
+    "licao": "L01-Horas"
+  },
+  {
+    "portugues": "Um dia tem 24 horas.",
+    "pinyin": "yī tiān yǒu èrshísì gè xiǎoshí.",
+    "mandarim": "一天有二十四个小时。",
+    "licao": "L01-Horas"
+  },
+  {
+    "portugues": "Um ano tem 12 meses e 365 dias.",
+    "pinyin": "yī nián yǒu shí'èr gè yuè hé sānbǎi liùshíwǔ tiān.",
+    "mandarim": "一年有十二个月和三百六十五天。",
+    "licao": "L01-Horas"
+  },
+  {
+    "portugues": "Um ano tem quantas horas?",
+    "pinyin": "yī nián yǒu duōshao gè xiǎoshí?",
+    "mandarim": "一年有多少个小时？",
+    "licao": "L01-Horas"
+  },
+  {
+    "portugues": "Você tem quantas horas de aula?",
+    "pinyin": "nǐ yǒu jǐ xiǎoshí de kè?",
+    "mandarim": "你有几小时的课？",
+    "licao": "L01-Horas"
+  },
+  {
+    "portugues": "Quantas horas o seu pai trabalha?",
+    "pinyin": "nǐ bàba měitiān gōngzuò jǐ xiǎoshí?",
+    "mandarim": "你爸爸每天工作几小时？",
+    "licao": "L01-Horas"
+  },
+  {
+    "portugues": "Eu durmo 8 horas por dia.",
+    "pinyin": "wǒ měitiān shuì bā gè xiǎoshí.",
+    "mandarim": "我每天睡八个小时。",
+    "licao": "L01-Horas"
+  },
+  {
+    "portugues": "Esta semana eu tenho três aulas de chinês.",
+    "pinyin": "zhège xīngqī wǒ yǒu sān jié zhōngwén kè.",
+    "mandarim": "这个星期我有三节中文课。",
+    "licao": "L01-Dias"
+  },
+  {
+    "portugues": "Em quais dias da semana você vai à academia para fazer exercícios?",
+    "pinyin": "nǐ xīngqī jǐ qù jiànshēnfáng yùndòng?",
+    "mandarim": "你星期几去健身房运动？",
+    "licao": "L01-Dias"
+  },
+  {
+    "portugues": "Às 19:00 de terças e quintas-feiras eu vou ao bar perto de casa.",
+    "pinyin": "měi gè xīngqī'èr hé xīngqīsì wǎnshàng qī diǎn wǒ qù jiā fùjìn de jiǔbā.",
+    "mandarim": "每个星期二和星期四晚上七点我去家附近的酒吧。",
+    "licao": "L01-Dias"
+  },
+  {
+    "portugues": "O que você faz nos domingos de manhã? Eu vou à igreja.",
+    "pinyin": "xīngqītiān zǎoshang nǐ zuò shénme? wǒ qù jiàotáng.",
+    "mandarim": "星期天早上你做什么？我去教堂。",
+    "licao": "L01-Dias"
+  },
+  {
+    "portugues": "Ontem foi domingo, por isso não trabalhei.",
+    "pinyin": "yīnwèi zuótiān shì xīngqītiān, suǒyǐ wǒ méi gōngzuò.",
+    "mandarim": "因为昨天是星期天，所以我没工作。",
+    "licao": "L01-Dias"
+  },
+  {
+    "portugues": "O que você gosta de fazer aos finais de semana? Eu gosto de ir à praça para ler um livro.",
+    "pinyin": "zhōumò nǐ xǐhuan zuò shénme? wǒ xǐhuan qù guǎngchǎng kàn shū.",
+    "mandarim": "周末你喜欢做什么？我喜欢去广场看书。",
+    "licao": "L01-Dias"
+  },
+  {
+    "portugues": "Eu gosto de ler, assistir a filmes e dormir nos finais de semana.",
+    "pinyin": "zhōumò wǒ xǐhuan kàn shū, kàn diànyǐng hé shuìjiào.",
+    "mandarim": "周末我喜欢看书，看电影和睡觉。",
+    "licao": "L01-Dias"
+  },
+  {
+    "portugues": "Esta semana tenho muitas provas, eu preciso estudar agora.",
+    "pinyin": "zhège xīngqī wǒ yǒu hěn duō kǎoshì, xiànzài wǒ xūyào xuéxí.",
+    "mandarim": "这个星期我有很多考试，现在我需要学习。",
+    "licao": "L01-Dias"
+  },
+  {
+    "portugues": "Aqui tem dois aeroportos, um fica perto da minha casa.",
+    "pinyin": "zhèlǐ yǒu liǎng gè jīchǎng, yī gè zài wǒ jiā fùjìn.",
+    "mandarim": "这里有两个机场，一个在我家附近。",
+    "licao": "L01-Dias"
+  },
+  {
+    "portugues": "Às 8:30 de sábados eu tenho aulas de chinês no Centro Ásia.",
+    "pinyin": "xīngqīliù bā diǎn bàn wǒ zài Centro Ásia shàng zhōngwén kè.",
+    "mandarim": "星期六八点半我在Centro Ásia上中文课。",
+    "licao": "L01-Dias"
+  },
+  {
+    "portugues": "Eu não sei que dia da semana foi ontem.",
+    "pinyin": "wǒ bù zhīdào zuótiān xīngqī jǐ.",
+    "mandarim": "我不知道昨天星期几。",
+    "licao": "L01-Dias"
+  },
+  {
+    "portugues": "Nas segundas e quartas-feiras meu pai trabalha no seu escritório, nas terças e quintas-feiras ele vai à empresa trabalhar.",
+    "pinyin": "xīngqīyī hé xīngqīsān wǒ bàba zài bàngōngshì gōngzuò, xīngqī'èr hé xīngqīsì tā qù gōngsī shàngbān.",
+    "mandarim": "星期一和星期三我爸爸在办公室工作，星期二和星期四他去公司上班。",
+    "licao": "L01-Dias"
+  },
+  {
+    "portugues": "Mãe, onde está minha calça nova?",
+    "pinyin": "māma, wǒ de xīn kùzi zài nǎli?",
+    "mandarim": "妈妈，我的新裤子在哪里？",
+    "licao": "L01-Direções"
+  },
+  {
+    "portugues": "Está em cima da sua cadeira.",
+    "pinyin": "zài nǐ de yǐzi shàngmian.",
+    "mandarim": "在你的椅子上面。",
+    "licao": "L01-Direções"
+  },
+  {
+    "portugues": "Onde estão as minhas coisas?",
+    "pinyin": "wǒ de dōngxi zài nǎli?",
+    "mandarim": "我的东西在哪里？",
+    "licao": "L01-Direções"
+  },
+  {
+    "portugues": "Estão dentro do meu carro.",
+    "pinyin": "zài wǒ de qìchē lǐmiàn.",
+    "mandarim": "在我的汽车里面。",
+    "licao": "L01-Direções"
+  },
+  {
+    "portugues": "Não quero sair de casa agora, (lá) fora está muito frio.",
+    "pinyin": "xiànzài wǒ bù xiǎng chūmén, wàimiàn hěn lěng.",
+    "mandarim": "现在我不想出门，外面很冷。",
+    "licao": "L01-Direções"
+  },
+  {
+    "portugues": "O meu livro está entre o dicionário e o caderno.",
+    "pinyin": "wǒ de shū zài zìdiǎn hé bǐjìběn zhījiān.",
+    "mandarim": "我的书在词典和笔记本之间。",
+    "licao": "L01-Direções"
+  },
+  {
+    "portugues": "O que tem debaixo da sua cama?",
+    "pinyin": "nǐ de chuáng xiàmian yǒu shénme?",
+    "mandarim": "你的床下面有什么？",
+    "licao": "L01-Direções"
+  },
+  {
+    "portugues": "Em frente à nossa escola há muitas pessoas agora.",
+    "pinyin": "xiànzài xuéxiào qiánmiàn yǒu hěn duō rén.",
+    "mandarim": "现在学校前面有很多人。",
+    "licao": "L01-Direções"
+  },
+  {
+    "portugues": "Onde fica o Banco do Brasil?",
+    "pinyin": "Bāxī yínháng zài nǎli?",
+    "mandarim": "巴西银行在哪里？",
+    "licao": "L01-Direções"
+  },
+  {
+    "portugues": "Fica aqui perto! Fica atrás daquela livraria.",
+    "pinyin": "jiù zài fùjìn! zài nà jiā shūdiàn hòumiàn.",
+    "mandarim": "就在附近！在那家书店的后面。",
+    "licao": "L01-Direções"
+  },
+  {
+    "portugues": "Onde fica a sua escola de inglês?",
+    "pinyin": "nǐ de yīngyǔ xuéxiào zài nǎli?",
+    "mandarim": "你的英语学校在哪里？",
+    "licao": "L01-Direções"
+  },
+  {
+    "portugues": "Fica ao lado do correio.",
+    "pinyin": "zài yóujú pángbiān.",
+    "mandarim": "在邮局的旁边。",
+    "licao": "L01-Direções"
+  },
+  {
+    "portugues": "Dentro da escola tem um pequeno restaurante. Você pode ir lá comer.",
+    "pinyin": "xuéxiào lǐmiàn yǒu yī jiā xiǎo cāntīng. nǐ kěyǐ qù nàlǐ chīfàn.",
+    "mandarim": "学校里面有一家小餐厅。你可以去那里吃饭。",
+    "licao": "L01-Direções"
+  },
+  {
+    "portugues": "Onde está seu pai?",
+    "pinyin": "nǐ bàba zài nǎli?",
+    "mandarim": "你爸爸在哪里？",
+    "licao": "L01-Direções"
+  },
+  {
+    "portugues": "Ele está à direita do professor de chinês.",
+    "pinyin": "tā zài zhōngwén lǎoshī de yòubian.",
+    "mandarim": "他在中文老师的右边。",
+    "licao": "L01-Direções"
+  },
+  {
+    "portugues": "Próximo à praça há muitas lojas chinesas. Eu gosto de ir lá comprar coisas baratas.",
+    "pinyin": "guǎngchǎng fùjìn yǒu hěn duō Zhōngguó shāngdiàn. wǒ xǐhuan qù nàlǐ mǎi piányí de dōngxi.",
+    "mandarim": "广场附近有很多中国商店。我喜欢去那里买便宜的东西。",
+    "licao": "L01-Direções"
+  },
+  {
+    "portugues": "A academia fica à esquerda do mercado ou à esquerda da padaria?",
+    "pinyin": "jiànshēnfáng zài chāoshì de zuǒbian háishì miànbāo diàn de zuǒbian?",
+    "mandarim": "健身房在超市的左边还是面包店的左边？",
+    "licao": "L01-Direções"
+  },
+  {
+    "portugues": "Dentro da minha faculdade tem um banco e um correio.",
+    "pinyin": "wǒ de dàxué lǐmiàn yǒu yī gè yínháng hé yī gè yóujú.",
+    "mandarim": "我的大学里面有一个银行和一个邮局。",
+    "licao": "L01-Direções"
+  },
+  {
+    "portugues": "6:15",
+    "pinyin": "liù diǎn shíwǔ fēn",
+    "mandarim": "六点十五分",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "5:07",
+    "pinyin": "wǔ diǎn líng qī fēn",
+    "mandarim": "五点零七分",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "11:30",
+    "pinyin": "shíyī diǎn bàn",
+    "mandarim": "十一点半",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "Agora faltam cinco minutos para as duas da tarde.",
+    "pinyin": "xiànzài chà wǔ fēn xiàwǔ liǎng diǎn",
+    "mandarim": "现在差五分下午两点",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "Agora são seis em ponto da manhã.",
+    "pinyin": "xiànzài shì zǎoshang liù diǎn zhěng",
+    "mandarim": "现在是早上六点整",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "A que horas você se levanta?",
+    "pinyin": "nǐ jǐ diǎn qǐchuáng?",
+    "mandarim": "你几点起床？",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "Eu me levanto às seis e meia da manhã.",
+    "pinyin": "wǒ zǎoshang liù diǎn bàn qǐchuáng.",
+    "mandarim": "我早上六点半起床。",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "Que dia da semana é hoje?",
+    "pinyin": "jīntiān shì xīngqī jǐ?",
+    "mandarim": "今天是星期几？",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "Hoje é segunda-feira.",
+    "pinyin": "jīntiān shì xīngqīyī.",
+    "mandarim": "今天是星期一。",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "Que dia do mês é amanhã?",
+    "pinyin": "míngtiān shì jǐ hào?",
+    "mandarim": "明天是几号？",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "Amanhã é dia 15 de agosto.",
+    "pinyin": "míngtiān shì bāyuè shíwǔ hào.",
+    "mandarim": "明天是八月十五号。",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "Em que dia da semana você vai à academia?",
+    "pinyin": "nǐ xīngqī jǐ qù jiànshēnfáng?",
+    "mandarim": "你星期几去健身房？",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "Eu vou à academia na quarta-feira à tarde.",
+    "pinyin": "wǒ xīngqīsān xiàwǔ qù jiànshēnfáng.",
+    "mandarim": "我星期三下午去健身房。",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "Com quem você vai à academia?",
+    "pinyin": "nǐ gēn shuí qù jiànshēnfáng?",
+    "mandarim": "你跟谁去健身房？",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "Eu vou à academia com um colega.",
+    "pinyin": "wǒ gēn tóngxué qù jiànshēnfáng.",
+    "mandarim": "我跟同学去健身房。",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "O que você faz na academia?",
+    "pinyin": "nǐ qù jiànshēnfáng zuò shénme?",
+    "mandarim": "你去健身房做什么？",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "Eu vou à academia fazer exercício.",
+    "pinyin": "wǒ qù jiànshēnfáng yùndòng.",
+    "mandarim": "我去健身房运动。",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "Onde está a televisão?",
+    "pinyin": "diànshì zài nǎli?",
+    "mandarim": "电视在哪里？",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "A televisão está à esquerda da cama.",
+    "pinyin": "diànshì zài chuáng de zuǒbian.",
+    "mandarim": "电视在床的左边。",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "Que esporte com bola os brasileiros gostam de jogar?",
+    "pinyin": "Bāxīrén xǐhuan wán shénme qiú?",
+    "mandarim": "巴西人喜欢玩什么球？",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "Como é o futebol do Brasil?",
+    "pinyin": "Bāxī de zúqiú zěnmeyàng?",
+    "mandarim": "巴西的足球怎么样？",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "No Brasil, a que horas há jogo de futebol no domingo?",
+    "pinyin": "zài Bāxī, xīngqītiān jǐ diǎn yǒu zúqiú bǐsài?",
+    "mandarim": "在巴西，星期天几点有足球比赛？",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "Que esporte com bola você já jogou? Como joga?",
+    "pinyin": "nǐ dǎguo shénme qiú? dǎ de zěnmeyàng?",
+    "mandarim": "你打过什么球？打得怎么样？",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "Você joga tênis; como joga?",
+    "pinyin": "nǐ dǎ wǎngqiú, dǎ de zěnmeyàng?",
+    "mandarim": "你打网球，打得怎么样？",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "Onde podemos jogar basquete?",
+    "pinyin": "wǒmen kěyǐ zài nǎli dǎ lánqiú?",
+    "mandarim": "我们可以在哪里打篮球？",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "Com quem você joga tênis?",
+    "pinyin": "nǐ gēn shéi dǎ wǎngqiú?",
+    "mandarim": "你跟谁打网球？",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "Que cor de roupa você está vestindo?",
+    "pinyin": "nǐ chuān shénme yánsè de yīfu?",
+    "mandarim": "你穿什么颜色的衣服？",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "Quais cores tem a bandeira do Brasil?",
+    "pinyin": "Bāxī de guóqí yǒu nǎxiē yánsè?",
+    "mandarim": "巴西的国旗有哪些颜色？",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "De que cor são as uvas?",
+    "pinyin": "pútáo shì shénme yánsè de?",
+    "mandarim": "葡萄是什么颜色的？",
+    "licao": "L01-Lição"
+  },
+  {
+    "portugues": "De que cor é o carro da sua família?",
+    "pinyin": "nǐ jiā de chēzi shì shénme yánsè de?",
+    "mandarim": "你家的车子是什么颜色的？",
+    "licao": "L01-Lição"
+  }
+]
