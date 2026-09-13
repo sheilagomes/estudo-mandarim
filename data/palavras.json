@@ -1,0 +1,2228 @@
+[
+  {
+    "categoria": "GERAL",
+    "portugues": "sol",
+    "pinyin": "rì",
+    "hanzi": "日",
+    "som": "ri.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "lua",
+    "pinyin": "yuè",
+    "hanzi": "月",
+    "som": "yue.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "pessoa",
+    "pinyin": "rén",
+    "hanzi": "人",
+    "som": "ren.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "cavalo",
+    "pinyin": "mǎ",
+    "hanzi": "马",
+    "som": "ma3.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "mulher",
+    "pinyin": "nǚ",
+    "hanzi": "女",
+    "som": "nu.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "filho",
+    "pinyin": "zǐ",
+    "hanzi": "子",
+    "som": "zi.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "em cima",
+    "pinyin": "shàng",
+    "hanzi": "上",
+    "som": "shang.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "bom",
+    "pinyin": "hǎo",
+    "hanzi": "好",
+    "som": "hao.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "mãe",
+    "pinyin": "mā",
+    "hanzi": "妈",
+    "som": "ma.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "código",
+    "pinyin": "mǎ",
+    "hanzi": "码",
+    "som": "ma3.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "xingar",
+    "pinyin": "mà",
+    "hanzi": "骂",
+    "som": "ma4.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "partícula interrogativa",
+    "pinyin": "ma",
+    "hanzi": "吗",
+    "som": "ma.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "pedra",
+    "pinyin": "shí",
+    "hanzi": "石",
+    "som": "shi.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "boca",
+    "pinyin": "kǒu",
+    "hanzi": "口",
+    "som": "kou.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "bola",
+    "pinyin": "qiú",
+    "hanzi": "球",
+    "som": "qiu.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "futebol",
+    "pinyin": "zúqiú",
+    "hanzi": "足球",
+    "som": "zuqiu.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "tênis",
+    "pinyin": "wǎngqiú",
+    "hanzi": "网球",
+    "som": "wangqiu.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "assistir à aula",
+    "pinyin": "shàngkè",
+    "hanzi": "上课",
+    "som": "shangke.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "face superior",
+    "pinyin": "shàngmiàn",
+    "hanzi": "上面",
+    "som": "shangmian.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "pé",
+    "pinyin": "zú",
+    "hanzi": "足",
+    "som": "zu.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "rede",
+    "pinyin": "wǎng",
+    "hanzi": "网",
+    "som": "wang.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "aula",
+    "pinyin": "kè",
+    "hanzi": "课",
+    "som": "ke.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "face",
+    "pinyin": "miàn",
+    "hanzi": "面",
+    "som": "mian.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "ser",
+    "pinyin": "shì",
+    "hanzi": "是",
+    "som": "shi.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "cidade",
+    "pinyin": "shì",
+    "hanzi": "市",
+    "som": "shi.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "assunto",
+    "pinyin": "shì",
+    "hanzi": "事",
+    "som": "shi.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "visão",
+    "pinyin": "shì",
+    "hanzi": "视",
+    "som": "shi.mp3"
+  },
+  {
+    "categoria": "VOGAL A",
+    "portugues": "mãe",
+    "pinyin": "māmā",
+    "hanzi": "妈妈",
+    "som": "mama.mp3"
+  },
+  {
+    "categoria": "VOGAL A",
+    "portugues": "ele",
+    "pinyin": "tā",
+    "hanzi": "他",
+    "som": "ta.mp3"
+  },
+  {
+    "categoria": "VOGAL A",
+    "portugues": "ela",
+    "pinyin": "tā",
+    "hanzi": "他",
+    "som": "ta.mp3"
+  },
+  {
+    "categoria": "VOGAL O",
+    "portugues": "abacaxi",
+    "pinyin": "bōluó",
+    "hanzi": "菠萝",
+    "som": "boluo.mp3"
+  },
+  {
+    "categoria": "VOGAL O",
+    "portugues": "eu",
+    "pinyin": "wǒ",
+    "hanzi": "我",
+    "som": "wo.mp3"
+  },
+  {
+    "categoria": "VOGAL E",
+    "portugues": "cantar",
+    "pinyin": "chànggē",
+    "hanzi": "唱歌",
+    "som": "changge.mp3"
+  },
+  {
+    "categoria": "VOGAL E",
+    "portugues": "partícula possessiva",
+    "pinyin": "de",
+    "hanzi": "的",
+    "som": "de.mp3"
+  },
+  {
+    "categoria": "VOGAL YI -I",
+    "portugues": "roupa",
+    "pinyin": "yīfu",
+    "hanzi": "衣服",
+    "som": "yifu.mp3"
+  },
+  {
+    "categoria": "VOGAL YI -I",
+    "portugues": "você",
+    "pinyin": "nǐ",
+    "hanzi": "你",
+    "som": "ni.mp3"
+  },
+  {
+    "categoria": "VOGAL WU -U",
+    "portugues": "livro",
+    "pinyin": "shū",
+    "hanzi": "书",
+    "som": "shu.mp3"
+  },
+  {
+    "categoria": "VOGAL WU -U",
+    "portugues": "não",
+    "pinyin": "bú",
+    "hanzi": "不",
+    "som": "bu2.mp3"
+  },
+  {
+    "categoria": "VOGAL WU -U",
+    "portugues": "não",
+    "pinyin": "bù",
+    "hanzi": "不",
+    "som": "bu4.mp3"
+  },
+  {
+    "categoria": "VOGAL YU -Ü",
+    "portugues": "peixe",
+    "pinyin": "yú",
+    "hanzi": "鱼",
+    "som": "yu.mp3"
+  },
+  {
+    "categoria": "FAMÍLIA",
+    "portugues": "filha",
+    "pinyin": "nǚér",
+    "hanzi": "女儿",
+    "som": "nuer.mp3"
+  },
+  {
+    "categoria": "FAMÍLIA",
+    "portugues": "pai",
+    "pinyin": "bābā",
+    "hanzi": "爸爸",
+    "som": "baba.mp3"
+  },
+  {
+    "categoria": "CONSOANTE B",
+    "portugues": "Brasil",
+    "pinyin": "bāxī",
+    "hanzi": "巴西",
+    "som": "baxi.mp3"
+  },
+  {
+    "categoria": "CONSOANTE P",
+    "portugues": "maçã",
+    "pinyin": "píngguǒ",
+    "hanzi": "苹果",
+    "som": "pingguo.mp3"
+  },
+  {
+    "categoria": "CONSOANTE P",
+    "portugues": "uva",
+    "pinyin": "pútáo",
+    "hanzi": "葡萄",
+    "som": "putao.mp3"
+  },
+  {
+    "categoria": "CONSOANTE M",
+    "portugues": "pão",
+    "pinyin": "miànbāo",
+    "hanzi": "面包",
+    "som": "mianbao.mp3"
+  },
+  {
+    "categoria": "CONSOANTE M",
+    "portugues": "comprar",
+    "pinyin": "mǎi",
+    "hanzi": "买",
+    "som": "mai.mp3"
+  },
+  {
+    "categoria": "CONSOANTE F",
+    "portugues": "comer",
+    "pinyin": "chīfàn",
+    "hanzi": "吃饭",
+    "som": "chifan.mp3"
+  },
+  {
+    "categoria": "CONSOANTE F",
+    "portugues": "França",
+    "pinyin": "fǎguó",
+    "hanzi": "法国",
+    "som": "faguo.mp3"
+  },
+  {
+    "categoria": "CONSOANTE D",
+    "portugues": "ovo",
+    "pinyin": "jīdàn",
+    "hanzi": "鸡蛋",
+    "som": "jidan.mp3"
+  },
+  {
+    "categoria": "FAMÍLIA",
+    "portugues": "irmão mais novo",
+    "pinyin": "dìdi",
+    "hanzi": "弟弟",
+    "som": "didi.mp3"
+  },
+  {
+    "categoria": "CONSOANTE T",
+    "portugues": "dançar",
+    "pinyin": "tiàowǔ",
+    "hanzi": "跳舞",
+    "som": "tiaowu.mp3"
+  },
+  {
+    "categoria": "CONSOANTE T",
+    "portugues": "amanhã",
+    "pinyin": "míngtiān",
+    "hanzi": "明天",
+    "som": "mingtian.mp3"
+  },
+  {
+    "categoria": "CONSOANTE N",
+    "portugues": "leite de vaca",
+    "pinyin": "niúnǎi",
+    "hanzi": "牛奶",
+    "som": "niunai.mp3"
+  },
+  {
+    "categoria": "CONSOANTE N",
+    "portugues": "vocês",
+    "pinyin": "nǐmen",
+    "hanzi": "你们",
+    "som": "nimen.mp3"
+  },
+  {
+    "categoria": "CONSOANTE L",
+    "portugues": "tigre",
+    "pinyin": "lǎohǔ",
+    "hanzi": "老虎",
+    "som": "laohu.mp3"
+  },
+  {
+    "categoria": "CONSOANTE L",
+    "portugues": "feliz",
+    "pinyin": "kuàilè",
+    "hanzi": "快乐",
+    "som": "kuaile.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "obrigado",
+    "pinyin": "xièxiè",
+    "hanzi": "谢谢",
+    "som": "xiexie.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "olá",
+    "pinyin": "nǐhǎo",
+    "hanzi": "你好",
+    "som": "nihao.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "três corpos",
+    "pinyin": "sāntǐ",
+    "hanzi": "三体",
+    "som": "santi.mp3"
+  },
+  {
+    "categoria": "CONSOANTE G",
+    "portugues": "bolo",
+    "pinyin": "dàngāo",
+    "hanzi": "蛋糕",
+    "som": "dangao.mp3"
+  },
+  {
+    "categoria": "FAMÍLIA",
+    "portugues": "irmão mais velho",
+    "pinyin": "gēgē",
+    "hanzi": "哥哥",
+    "som": "gege.mp3"
+  },
+  {
+    "categoria": "CONSOANTE K",
+    "portugues": "calça",
+    "pinyin": "kùzi",
+    "hanzi": "裤子",
+    "som": "kuzi.mp3"
+  },
+  {
+    "categoria": "CONSOANTE K",
+    "portugues": "dar/assistir à aula",
+    "pinyin": "shànkè",
+    "hanzi": "上课",
+    "som": "shanke.mp3"
+  },
+  {
+    "categoria": "CONSOANTE H",
+    "portugues": "macaco",
+    "pinyin": "hóuzi",
+    "hanzi": "猴子",
+    "som": "houzi.mp3"
+  },
+  {
+    "categoria": "CONSOANTE H",
+    "portugues": "tomar chá",
+    "pinyin": "hēchá",
+    "hanzi": "喝茶",
+    "som": "hecha.mp3"
+  },
+  {
+    "categoria": "VOGAL AI",
+    "portugues": "comprar",
+    "pinyin": "mǎi",
+    "hanzi": "买",
+    "som": "mai3.mp3"
+  },
+  {
+    "categoria": "MODAL",
+    "portugues": "amar",
+    "pinyin": "ài",
+    "hanzi": "爱",
+    "som": "ai.mp3"
+  },
+  {
+    "categoria": "VOGAL EI",
+    "portugues": "avião",
+    "pinyin": "fēijī",
+    "hanzi": "飞机",
+    "som": "feiji.mp3"
+  },
+  {
+    "categoria": "VOGAL EI",
+    "portugues": "cansado",
+    "pinyin": "lèi",
+    "hanzi": "累",
+    "som": "lei.mp3"
+  },
+  {
+    "categoria": "VOGAL AO",
+    "portugues": "professor",
+    "pinyin": "lǎoshī",
+    "hanzi": "老师",
+    "som": "laoshi.mp3"
+  },
+  {
+    "categoria": "VOGAL AO",
+    "portugues": "prova",
+    "pinyin": "kǎoshì",
+    "hanzi": "考试",
+    "som": "kaoshi.mp3"
+  },
+  {
+    "categoria": "VOGAL OU",
+    "portugues": "cachorrinho",
+    "pinyin": "xiǎogǒu",
+    "hanzi": "小狗",
+    "som": "xiaogou.mp3"
+  },
+  {
+    "categoria": "VOGAL OU",
+    "portugues": "ter",
+    "pinyin": "yǒu",
+    "hanzi": "有",
+    "som": "you.mp3"
+  },
+  {
+    "categoria": "VOGAL AN",
+    "portugues": "noite",
+    "pinyin": "wǎnshang",
+    "hanzi": "晚上",
+    "som": "wanshang.mp3"
+  },
+  {
+    "categoria": "VOGAL AN",
+    "portugues": "muito difícil",
+    "pinyin": "hěnnán",
+    "hanzi": "很难",
+    "som": "hennan.mp3"
+  },
+  {
+    "categoria": "VOGAL EN",
+    "portugues": "porta",
+    "pinyin": "mén",
+    "hanzi": "门",
+    "som": "men.mp3"
+  },
+  {
+    "categoria": "VOGAL EN",
+    "portugues": "nós",
+    "pinyin": "wǒmen",
+    "hanzi": "我们",
+    "som": "women.mp3"
+  },
+  {
+    "categoria": "VOGAL ANG",
+    "portugues": "casa",
+    "pinyin": "fángzi",
+    "hanzi": "房子",
+    "som": "fangzi.mp3"
+  },
+  {
+    "categoria": "VOGAL ANG",
+    "portugues": "ajudar",
+    "pinyin": "bāngmáng",
+    "hanzi": "帮忙",
+    "som": "bangmang.mp3"
+  },
+  {
+    "categoria": "VOGAL ENG",
+    "portugues": "estudante",
+    "pinyin": "xuéshēng",
+    "hanzi": "学生",
+    "som": "xuesheng.mp3"
+  },
+  {
+    "categoria": "VOGAL ENG",
+    "portugues": "senhor",
+    "pinyin": "xiānshēng",
+    "hanzi": "先生",
+    "som": "xiansheng.mp3"
+  },
+  {
+    "categoria": "FAMÍLIA",
+    "portugues": "filho",
+    "pinyin": "érzi",
+    "hanzi": "儿子",
+    "som": "erzi.mp3"
+  },
+  {
+    "categoria": "VOGAL ER",
+    "portugues": "vinte",
+    "pinyin": "èrshí",
+    "hanzi": "二十",
+    "som": "ershi.mp3"
+  },
+  {
+    "categoria": "VOGAL -UI WEI",
+    "portugues": "por que",
+    "pinyin": "wèishénme",
+    "hanzi": "为什么",
+    "som": "weishenme.mp3"
+  },
+  {
+    "categoria": "VOGAL -UI WEI",
+    "portugues": "não saber",
+    "pinyin": "búhuì",
+    "hanzi": "不会",
+    "som": "buhui.mp3"
+  },
+  {
+    "categoria": "VOGAL -IU YOU",
+    "portugues": "ter",
+    "pinyin": "yǒu",
+    "hanzi": "有",
+    "som": "you.mp3"
+  },
+  {
+    "categoria": "VOGAL -IU YOU",
+    "portugues": "amigo",
+    "pinyin": "péngyǒu",
+    "hanzi": "朋友",
+    "som": "pengyou.mp3"
+  },
+  {
+    "categoria": "VOGAL -IN YIN",
+    "portugues": "novo",
+    "pinyin": "xīnde",
+    "hanzi": "新的",
+    "som": "xinde.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "música",
+    "pinyin": "yīnyuè",
+    "hanzi": "音乐",
+    "som": "yinyue.mp3"
+  },
+  {
+    "categoria": "VOGAL -ÜN YUN",
+    "portugues": "nuvem",
+    "pinyin": "yún",
+    "hanzi": "云",
+    "som": "yun.mp3"
+  },
+  {
+    "categoria": "VOGAL -ÜN YUN",
+    "portugues": "esporte",
+    "pinyin": "yùndòng",
+    "hanzi": "运动",
+    "som": "yundong.mp3"
+  },
+  {
+    "categoria": "VOGAL -ING YING",
+    "portugues": "Reino Unido",
+    "pinyin": "yīngguó",
+    "hanzi": "英国",
+    "som": "yingguo.mp3"
+  },
+  {
+    "categoria": "VOGAL -ING YING",
+    "portugues": "escutar",
+    "pinyin": "tīng",
+    "hanzi": "听",
+    "som": "ting.mp3"
+  },
+  {
+    "categoria": "VOGAL -ONG WENG",
+    "portugues": "coisas",
+    "pinyin": "dōngxī",
+    "hanzi": "东西",
+    "som": "dongxi.mp3"
+  },
+  {
+    "categoria": "VOGAL -ONG WENG",
+    "portugues": "trabalho",
+    "pinyin": "gōngzuò",
+    "hanzi": "工作",
+    "som": "gongzuo.mp3"
+  },
+  {
+    "categoria": "VOGAL -IAN YAN",
+    "portugues": "agora",
+    "pinyin": "xiànzài",
+    "hanzi": "现在",
+    "som": "xianzai.mp3"
+  },
+  {
+    "categoria": "VOGAL -IAN YAN",
+    "portugues": "este ano",
+    "pinyin": "jīnnián",
+    "hanzi": "今年",
+    "som": "jinnian.mp3"
+  },
+  {
+    "categoria": "VOGAL -IANG YANG",
+    "portugues": "ovelha",
+    "pinyin": "yáng",
+    "hanzi": "羊",
+    "som": "yang.mp3"
+  },
+  {
+    "categoria": "VOGAL -IANG YANG",
+    "portugues": "pensar",
+    "pinyin": "xiǎng",
+    "hanzi": "想",
+    "som": "xiang.mp3"
+  },
+  {
+    "categoria": "VOGAL -IONG YONG",
+    "portugues": "nadar",
+    "pinyin": "yóuyǒng",
+    "hanzi": "游泳",
+    "som": "youyong.mp3"
+  },
+  {
+    "categoria": "VOGAL -IONG YONG",
+    "portugues": "usar",
+    "pinyin": "yòng",
+    "hanzi": "用",
+    "som": "yong.mp3"
+  },
+  {
+    "categoria": "VOGAL -UAN WAN",
+    "portugues": "boa noite",
+    "pinyin": "wǎnshanghǎo",
+    "hanzi": "晚上好",
+    "som": "wanshanghao.mp3"
+  },
+  {
+    "categoria": "VOGAL -UAN WAN",
+    "portugues": "Taiwan",
+    "pinyin": "táiwān",
+    "hanzi": "台湾",
+    "som": "taiwan.mp3"
+  },
+  {
+    "categoria": "FAMÍLIA",
+    "portugues": "neto",
+    "pinyin": "sūnzi",
+    "hanzi": "孙子",
+    "som": "sunzi.mp3"
+  },
+  {
+    "categoria": "VOGAL -UN WEN",
+    "portugues": "chinês",
+    "pinyin": "zhōngwén",
+    "hanzi": "中文",
+    "som": "zhongwen.mp3"
+  },
+  {
+    "categoria": "VOGAL -UANG WANG",
+    "portugues": "rei",
+    "pinyin": "guówáng",
+    "hanzi": "国王",
+    "som": "guowang.mp3"
+  },
+  {
+    "categoria": "VOGAL -UANG WANG",
+    "portugues": "internet",
+    "pinyin": "wǎngluò",
+    "hanzi": "网络",
+    "som": "wangluo.mp3"
+  },
+  {
+    "categoria": "VOGAL -UAN YUAN",
+    "portugues": "hospital",
+    "pinyin": "yīyuàn",
+    "hanzi": "医院",
+    "som": "yiyuan.mp3"
+  },
+  {
+    "categoria": "VOGAL -UAN YUAN",
+    "portugues": "parque",
+    "pinyin": "gōngyuán",
+    "hanzi": "公园",
+    "som": "gongyuan.mp3"
+  },
+  {
+    "categoria": "CONSOANTE J",
+    "portugues": "lar (casa)",
+    "pinyin": "jiā",
+    "hanzi": "家",
+    "som": "jia.mp3"
+  },
+  {
+    "categoria": "CONSOANTE J",
+    "portugues": "até logo",
+    "pinyin": "zàijiàn",
+    "hanzi": "再见",
+    "som": "zaijian.mp3"
+  },
+  {
+    "categoria": "CONSOANTE Q",
+    "portugues": "dinheiro",
+    "pinyin": "qián",
+    "hanzi": "钱",
+    "som": "qian.mp3"
+  },
+  {
+    "categoria": "CONSOANTE Q",
+    "portugues": "ano passado",
+    "pinyin": "qùnián",
+    "hanzi": "去年",
+    "som": "qunian.mp3"
+  },
+  {
+    "categoria": "CONSOANTE X",
+    "portugues": "sapato",
+    "pinyin": "xiézi",
+    "hanzi": "鞋子",
+    "som": "xiezi.mp3"
+  },
+  {
+    "categoria": "CONSOANTE X",
+    "portugues": "senhorita",
+    "pinyin": "xiǎojiě",
+    "hanzi": "小姐",
+    "som": "xiaojie.mp3"
+  },
+  {
+    "categoria": "CONSOANTE Z",
+    "portugues": "manhã",
+    "pinyin": "zǎoshang",
+    "hanzi": "早上",
+    "som": "zaoshang.mp3"
+  },
+  {
+    "categoria": "CONSOANTE Z",
+    "portugues": "futebol",
+    "pinyin": "zúqiú",
+    "hanzi": "足球",
+    "som": "zuqiu.mp3"
+  },
+  {
+    "categoria": "CONSOANTE C",
+    "portugues": "morango",
+    "pinyin": "cǎoméi",
+    "hanzi": "草莓",
+    "som": "caomei.mp3"
+  },
+  {
+    "categoria": "CONSOANTE C",
+    "portugues": "restaurante",
+    "pinyin": "cāntīng",
+    "hanzi": "餐厅",
+    "som": "canting.mp3"
+  },
+  {
+    "categoria": "CONSOANTE S",
+    "portugues": "guarda-chuva",
+    "pinyin": "yǔsǎn",
+    "hanzi": "雨伞",
+    "som": "yusan.mp3"
+  },
+  {
+    "categoria": "CONSOANTE S",
+    "portugues": "trinta",
+    "pinyin": "sānshí",
+    "hanzi": "三十",
+    "som": "sanshi.mp3"
+  },
+  {
+    "categoria": "CONSOANTE ZH",
+    "portugues": "porco",
+    "pinyin": "zhū",
+    "hanzi": "猪",
+    "som": "zhu.mp3"
+  },
+  {
+    "categoria": "CONSOANTE ZH",
+    "portugues": "senhora Zhang",
+    "pinyin": "zhāngtàitài",
+    "hanzi": "张太太",
+    "som": "zhangtaitai.mp3"
+  },
+  {
+    "categoria": "CONSOANTE CH",
+    "portugues": "carro",
+    "pinyin": "chēzi",
+    "hanzi": "车子",
+    "som": "chezi.mp3"
+  },
+  {
+    "categoria": "CONSOANTE CH",
+    "portugues": "laranja",
+    "pinyin": "chéngzi",
+    "hanzi": "橙子",
+    "som": "chengzi.mp3"
+  },
+  {
+    "categoria": "CONSOANTE SH",
+    "portugues": "fruta",
+    "pinyin": "shuǐguǒ",
+    "hanzi": "果水",
+    "som": "shuiguo.mp3"
+  },
+  {
+    "categoria": "CONSOANTE SH",
+    "portugues": "ser",
+    "pinyin": "shì",
+    "hanzi": "是",
+    "som": "shi.mp3"
+  },
+  {
+    "categoria": "CONSOANTE R",
+    "portugues": "pessoa",
+    "pinyin": "rén",
+    "hanzi": "人",
+    "som": "ren.mp3"
+  },
+  {
+    "categoria": "CONSOANTE R",
+    "portugues": "carne",
+    "pinyin": "ròu",
+    "hanzi": "肉",
+    "som": "rou.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "pronome possessivo",
+    "pinyin": "de",
+    "hanzi": "的",
+    "som": "de.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "quem",
+    "pinyin": "shuí",
+    "hanzi": "谁",
+    "som": "shui.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "chamar-se",
+    "pinyin": "jiào",
+    "hanzi": "叫",
+    "som": "jiao.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "isto",
+    "pinyin": "zhè",
+    "hanzi": "这",
+    "som": "zhe.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "introdução",
+    "pinyin": "jiè shào",
+    "hanzi": "介绍",
+    "som": "jieshao.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "pronúncia",
+    "pinyin": "fā yīn",
+    "hanzi": "发音",
+    "som": "fayin.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "você formal",
+    "pinyin": "nín",
+    "hanzi": "您",
+    "som": "nin.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "eles",
+    "pinyin": "tāmen",
+    "hanzi": "他们",
+    "som": "tamen.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "elas",
+    "pinyin": "tāmen",
+    "hanzi": "他们",
+    "som": "tamen.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "forma plural p/pessoas",
+    "pinyin": "men",
+    "hanzi": "们",
+    "som": "men.mp3"
+  },
+  {
+    "categoria": "FAMÍLIA",
+    "portugues": "avô",
+    "pinyin": "yéye",
+    "hanzi": "爷爷",
+    "som": "yeye.mp3"
+  },
+  {
+    "categoria": "FAMÍLIA",
+    "portugues": "mãe",
+    "pinyin": "māma",
+    "hanzi": "妈妈",
+    "som": "mama.mp3"
+  },
+  {
+    "categoria": "FAMÍLIA",
+    "portugues": "irmã mais velha",
+    "pinyin": "jiějie",
+    "hanzi": "姐姐",
+    "som": "jiejie.mp3"
+  },
+  {
+    "categoria": "FAMÍLIA",
+    "portugues": "irmã mais nova",
+    "pinyin": "mèimei",
+    "hanzi": "妹妹",
+    "som": "meimei.mp3"
+  },
+  {
+    "categoria": "FAMÍLIA",
+    "portugues": "avó",
+    "pinyin": "nǎinai",
+    "hanzi": "奶奶",
+    "som": "nainai.mp3"
+  },
+  {
+    "categoria": "FAMÍLIA",
+    "portugues": "neta",
+    "pinyin": "sūnnǚ",
+    "hanzi": "孙女",
+    "som": "sunnu.mp3"
+  },
+  {
+    "categoria": "NÚMEROS",
+    "portugues": "1",
+    "pinyin": "yī",
+    "hanzi": "一",
+    "som": "yi.mp3"
+  },
+  {
+    "categoria": "NÚMEROS",
+    "portugues": "2",
+    "pinyin": "èr",
+    "hanzi": "二",
+    "som": "er.mp3"
+  },
+  {
+    "categoria": "NÚMEROS",
+    "portugues": "3",
+    "pinyin": "sān",
+    "hanzi": "三",
+    "som": "san.mp3"
+  },
+  {
+    "categoria": "NÚMEROS",
+    "portugues": "4",
+    "pinyin": "sì",
+    "hanzi": "四",
+    "som": "si.mp3"
+  },
+  {
+    "categoria": "NÚMEROS",
+    "portugues": "5",
+    "pinyin": "wǔ",
+    "hanzi": "五",
+    "som": "wu.mp3"
+  },
+  {
+    "categoria": "NÚMEROS",
+    "portugues": "6",
+    "pinyin": "liù",
+    "hanzi": "六",
+    "som": "liu.mp3"
+  },
+  {
+    "categoria": "NÚMEROS",
+    "portugues": "7",
+    "pinyin": "qī",
+    "hanzi": "七",
+    "som": "qi.mp3"
+  },
+  {
+    "categoria": "NÚMEROS",
+    "portugues": "8",
+    "pinyin": "bā",
+    "hanzi": "八",
+    "som": "ba.mp3"
+  },
+  {
+    "categoria": "NÚMEROS",
+    "portugues": "9",
+    "pinyin": "jiǔ",
+    "hanzi": "九",
+    "som": "jiu.mp3"
+  },
+  {
+    "categoria": "NÚMEROS",
+    "portugues": "10",
+    "pinyin": "shí",
+    "hanzi": "十",
+    "som": "shi10.mp3"
+  },
+  {
+    "categoria": "NÚMEROS",
+    "portugues": "100",
+    "pinyin": "bǎi",
+    "hanzi": "百",
+    "som": "bai.mp3"
+  },
+  {
+    "categoria": "NÚMEROS",
+    "portugues": "1000",
+    "pinyin": "qiān",
+    "hanzi": "千",
+    "som": "qian.mp3"
+  },
+  {
+    "categoria": "NÚMEROS",
+    "portugues": "2000",
+    "pinyin": "liǎng",
+    "hanzi": "两",
+    "som": "liang.mp3"
+  },
+  {
+    "categoria": "NÚMEROS",
+    "portugues": "0",
+    "pinyin": "líng",
+    "hanzi": "零",
+    "som": "ling.mp3"
+  },
+  {
+    "categoria": "CLASSIFICADOR",
+    "portugues": "de pessoa e objetos",
+    "pinyin": "ge",
+    "hanzi": "个",
+    "som": "ge.mp3"
+  },
+  {
+    "categoria": "CLASSIFICADOR",
+    "portugues": "de instrumento de escrita",
+    "pinyin": "zhī",
+    "hanzi": "支",
+    "som": "zhi.mp3"
+  },
+  {
+    "categoria": "CLASSIFICADOR",
+    "portugues": "de livro",
+    "pinyin": "běn",
+    "hanzi": "本",
+    "som": "ben.mp3"
+  },
+  {
+    "categoria": "CLASSIFICADOR",
+    "portugues": "de móvel e papel",
+    "pinyin": "zhāng",
+    "hanzi": "张",
+    "som": "zhang.mp3"
+  },
+  {
+    "categoria": "CLASSIFICADOR",
+    "portugues": "de animais",
+    "pinyin": "zhī",
+    "hanzi": "只",
+    "som": "zhi.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "caneta",
+    "pinyin": "bǐ",
+    "hanzi": "笔",
+    "som": "bi.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "giz",
+    "pinyin": "fěnbǐ",
+    "hanzi": "粉笔",
+    "som": "fenbi.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "lápis",
+    "pinyin": "qiānbǐ",
+    "hanzi": "铅笔",
+    "som": "qianbi.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "régua",
+    "pinyin": "chǐ",
+    "hanzi": "尺",
+    "som": "chi.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "dicionário",
+    "pinyin": "zìdiǎn",
+    "hanzi": "字典",
+    "som": "zidian.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "caderno",
+    "pinyin": "bǐjìběn",
+    "hanzi": "笔记本",
+    "som": "bijiben.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "apostila",
+    "pinyin": "kèběn",
+    "hanzi": "课本",
+    "som": "keben.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "mesa",
+    "pinyin": "zhuōzi",
+    "hanzi": "桌子",
+    "som": "zhuozi.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "cadeira",
+    "pinyin": "yǐzi",
+    "hanzi": "椅子",
+    "som": "yizi.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "papel",
+    "pinyin": "zhǐ",
+    "hanzi": "纸",
+    "som": "zhi.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "quadro-negro",
+    "pinyin": "hēibǎn",
+    "hanzi": "黑板",
+    "som": "heiban.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "passarinho",
+    "pinyin": "niǎo",
+    "hanzi": "鸟",
+    "som": "niao.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "coelho",
+    "pinyin": "tùzi",
+    "hanzi": "兔子",
+    "som": "tuzi.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "leão",
+    "pinyin": "shīzi",
+    "hanzi": "狮子",
+    "som": "shizi.mp3"
+  },
+  {
+    "categoria": "PRON.INT.",
+    "portugues": "quanto(s)",
+    "pinyin": "jǐ",
+    "hanzi": "几",
+    "som": "ji.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "não (verbo ter)",
+    "pinyin": "méi",
+    "hanzi": "没",
+    "som": "mei.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "mapa",
+    "pinyin": "dìtú",
+    "hanzi": "地图",
+    "som": "ditu.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "no/na",
+    "pinyin": "zài",
+    "hanzi": "在",
+    "som": "zai.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "não ter",
+    "pinyin": "méi yǒu",
+    "hanzi": "没有",
+    "som": "meiyou.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "rico",
+    "pinyin": "yǒu qián",
+    "hanzi": "有钱",
+    "som": "youqian.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "famoso",
+    "pinyin": "yǒu míng",
+    "hanzi": "有名",
+    "som": "youming.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "ter ou não?",
+    "pinyin": "yǒu mei yǒu",
+    "hanzi": "有没有",
+    "som": "youmeiyou.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "que horas",
+    "pinyin": "jǐ diǎn",
+    "hanzi": "几点",
+    "som": "jidian.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "que dia",
+    "pinyin": "jǐ hào",
+    "hanzi": "几号",
+    "som": "jihao.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "que mês",
+    "pinyin": "jǐ yuè",
+    "hanzi": "几月",
+    "som": "jiyue.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "que dia da semana",
+    "pinyin": "xīngqī jǐ",
+    "hanzi": "星期几",
+    "som": "xingqi.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "livraria",
+    "pinyin": "shū diàn",
+    "hanzi": "书店",
+    "som": "shudian.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "mochila",
+    "pinyin": "shū bāo",
+    "hanzi": "书包",
+    "som": "shubao.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "caligrafia",
+    "pinyin": "shū fǎ",
+    "hanzi": "书法",
+    "som": "shufa.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "mesa de estudo",
+    "pinyin": "shū zhuō",
+    "hanzi": "书桌",
+    "som": "shuzhuo.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "pincel",
+    "pinyin": "máo bǐ",
+    "hanzi": "毛笔",
+    "som": "maobi.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "grafite",
+    "pinyin": "bǐ xīn",
+    "hanzi": "笔心",
+    "som": "bixin.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "caneta vermelha",
+    "pinyin": "hóngbǐ",
+    "hanzi": "红笔",
+    "som": "hongbi.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "gramática",
+    "pinyin": "jùfǎ",
+    "hanzi": "句法",
+    "som": "jufa.mp3"
+  },
+  {
+    "categoria": "MODAL",
+    "portugues": "gostar de",
+    "pinyin": "xǐhuan",
+    "hanzi": "喜欢",
+    "som": "xihuan.mp3"
+  },
+  {
+    "categoria": "MODAL",
+    "portugues": "saber (habilidade)",
+    "pinyin": "huì",
+    "hanzi": "会",
+    "som": "hui.mp3"
+  },
+  {
+    "categoria": "MODAL",
+    "portugues": "querer/pensar/achar",
+    "pinyin": "xiǎng",
+    "hanzi": "想",
+    "som": "xiang.mp3"
+  },
+  {
+    "categoria": "MODAL",
+    "portugues": "saber (informação)",
+    "pinyin": "zhīdào",
+    "hanzi": "知道",
+    "som": "zhidao.mp3"
+  },
+  {
+    "categoria": "MODAL",
+    "portugues": "poder (permissão)",
+    "pinyin": "kěyǐ",
+    "hanzi": "可以",
+    "som": "keyi.mp3"
+  },
+  {
+    "categoria": "MODAL",
+    "portugues": "poder (condição)",
+    "pinyin": "néng",
+    "hanzi": "能",
+    "som": "neng.mp3"
+  },
+  {
+    "categoria": "MODAL",
+    "portugues": "querer/precisar",
+    "pinyin": "yào",
+    "hanzi": "要",
+    "som": "yao.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "vocabulário",
+    "pinyin": "shēngzì",
+    "hanzi": "生字",
+    "som": "shengzi.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "dirigir",
+    "pinyin": "kāichē",
+    "hanzi": "开车",
+    "som": "kaiche.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "mas",
+    "pinyin": "dànshì",
+    "hanzi": "但是",
+    "som": "danshi.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "fazer",
+    "pinyin": "zuò",
+    "hanzi": "做",
+    "som": "zuo.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "escutar",
+    "pinyin": "tīng",
+    "hanzi": "听",
+    "som": "ting.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "romanização",
+    "pinyin": "pīn yīn",
+    "hanzi": "拼音",
+    "som": "pinyin.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "caracter",
+    "pinyin": "hàn zì",
+    "hanzi": "汉字",
+    "som": "hanzi.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "tom",
+    "pinyin": "shēng diào",
+    "hanzi": "声调",
+    "som": "shengdiao.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "bom dia (<12:00)",
+    "pinyin": "shàng wǔ hǎo",
+    "hanzi": "上午好",
+    "som": "shangwuhao.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "bom dia (6:00~8:00)",
+    "pinyin": "zǎo shàng hǎo",
+    "hanzi": "早上好",
+    "som": "zaoshanghao.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "bom dia (6:00~8:00 formal)",
+    "pinyin": "zǎo ān",
+    "hanzi": "早安",
+    "som": "zaoan.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "boa tarde",
+    "pinyin": "xià wǔ hǎo",
+    "hanzi": "下五好",
+    "som": "xiawuhao.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "boa noite (despedida)",
+    "pinyin": "wǎn ān",
+    "hanzi": "晚安",
+    "som": "wǎnān.mp3"
+  },
+  {
+    "categoria": "AULA",
+    "portugues": "desculpe",
+    "pinyin": "duì bù qǐ",
+    "hanzi": "对不起",
+    "som": "duibuqi.mp3"
+  },
+  {
+    "categoria": "AULA",
+    "portugues": "sem problemas",
+    "pinyin": "méi guān xi",
+    "hanzi": "没关系",
+    "som": "meiguanxi.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "falar",
+    "pinyin": "shuō",
+    "hanzi": "说",
+    "som": "shuo.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "chinês",
+    "pinyin": "hàn yǔ",
+    "hanzi": "汉语",
+    "som": "hanyu.mp3"
+  },
+  {
+    "categoria": "AULA",
+    "portugues": "de nada",
+    "pinyin": "bù kè qi",
+    "hanzi": "不客气",
+    "som": "bukeqi.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "português",
+    "pinyin": "pú táo yá yǔ",
+    "hanzi": "葡萄牙语",
+    "som": "putaoyayu.mp3"
+  },
+  {
+    "categoria": "AULA",
+    "portugues": "certo",
+    "pinyin": "duì",
+    "hanzi": "对",
+    "som": "dui.mp3"
+  },
+  {
+    "categoria": "AULA",
+    "portugues": "por favor, leia",
+    "pinyin": "qǐng nǐ dú yī xià",
+    "hanzi": "请你读一下",
+    "som": "qingniduyixia.mp3"
+  },
+  {
+    "categoria": "AULA",
+    "portugues": "leia comigo",
+    "pinyin": "gēn wǒ dú",
+    "hanzi": "跟我读",
+    "som": "genwodu.mp3"
+  },
+  {
+    "categoria": "AULA",
+    "portugues": "bom!",
+    "pinyin": "hěn hǎo",
+    "hanzi": "很好",
+    "som": "henhao.mp3"
+  },
+  {
+    "categoria": "AULA",
+    "portugues": "muito bom!",
+    "pinyin": "fēi cháng hǎo",
+    "hanzi": "非常好",
+    "som": "feichanghao.mp3"
+  },
+  {
+    "categoria": "AULA",
+    "portugues": "errado (não certo)",
+    "pinyin": "bù duì",
+    "hanzi": "不对",
+    "som": "budui.mp3"
+  },
+  {
+    "categoria": "AULA",
+    "portugues": "vamos começar",
+    "pinyin": "wǒ men kāi shǐ",
+    "hanzi": "我们开始",
+    "som": "womenkaishi.mp3"
+  },
+  {
+    "categoria": "AULA",
+    "portugues": "começar a aula",
+    "pinyin": "shàng kè",
+    "hanzi": "上课",
+    "som": "shangke.mp3"
+  },
+  {
+    "categoria": "AULA",
+    "portugues": "terminar a aula",
+    "pinyin": "xià kè",
+    "hanzi": "下课",
+    "som": "xiake.mp3"
+  },
+  {
+    "categoria": "AULA",
+    "portugues": "o que significa",
+    "pinyin": "shì shén me yì si",
+    "hanzi": "。。。是什么意思？",
+    "som": "shishenmeyisi.mp3"
+  },
+  {
+    "categoria": "GERAL",
+    "portugues": "não é",
+    "pinyin": "bù shì",
+    "hanzi": "不是",
+    "som": "bushi.mp3"
+  },
+  {
+    "categoria": "AULA",
+    "portugues": "como falar",
+    "pinyin": "zěn me shuō",
+    "hanzi": "怎么说。。。？",
+    "som": "zenmeshuo.mp3"
+  },
+  {
+    "categoria": "L01",
+    "portugues": "minuto",
+    "pinyin": "fēn",
+    "hanzi": "分",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "e meia (hora)",
+    "pinyin": "bàn",
+    "hanzi": "半",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "um quarto de hora",
+    "pinyin": "yí kè",
+    "hanzi": "一刻",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "faltar (tempo)",
+    "pinyin": "chà",
+    "hanzi": "差",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "em ponto",
+    "pinyin": "zhěng",
+    "hanzi": "整",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "tarde (período)",
+    "pinyin": "xiàwǔ",
+    "hanzi": "下午",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "levantar-se",
+    "pinyin": "qǐchuáng",
+    "hanzi": "起床",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "escovar os dentes",
+    "pinyin": "shuāyá",
+    "hanzi": "刷牙",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "tomar banho",
+    "pinyin": "xǐzǎo",
+    "hanzi": "洗澡",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "café da manhã",
+    "pinyin": "zǎofàn",
+    "hanzi": "早饭",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "jantar",
+    "pinyin": "wǎnfàn",
+    "hanzi": "晚饭",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "escritório",
+    "pinyin": "bàngōngshì",
+    "hanzi": "办公室",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "hotel",
+    "pinyin": "jiǔdiàn",
+    "hanzi": "酒店",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "bar",
+    "pinyin": "jiǔbā",
+    "hanzi": "酒吧",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "igreja",
+    "pinyin": "jiàotáng",
+    "hanzi": "教堂",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "praça",
+    "pinyin": "guǎngchǎng",
+    "hanzi": "广场",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "estação",
+    "pinyin": "chēzhàn",
+    "hanzi": "车站",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "aeroporto",
+    "pinyin": "jīchǎng",
+    "hanzi": "机场",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "embaixo de",
+    "pinyin": "xiàmian",
+    "hanzi": "下面",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "à esquerda de",
+    "pinyin": "zuǒbian",
+    "hanzi": "左边",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "à direita de",
+    "pinyin": "yòubian",
+    "hanzi": "右边",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "televisão",
+    "pinyin": "diànshì",
+    "hanzi": "电视",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "cama",
+    "pinyin": "chuáng",
+    "hanzi": "床",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "guarda-roupa",
+    "pinyin": "yīguì",
+    "hanzi": "衣柜",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "relógio",
+    "pinyin": "shízhōng",
+    "hanzi": "时钟",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "espelho",
+    "pinyin": "jìngzi",
+    "hanzi": "镜子",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "travesseiro",
+    "pinyin": "zhěntou",
+    "hanzi": "枕头",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "interruptor",
+    "pinyin": "kāiguān",
+    "hanzi": "开关",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "beisebol",
+    "pinyin": "bàngqiú",
+    "hanzi": "棒球",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "basquete",
+    "pinyin": "lánqiú",
+    "hanzi": "篮球",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "tênis de mesa",
+    "pinyin": "pīngpāngqiú",
+    "hanzi": "乒乓球",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "vôlei",
+    "pinyin": "páiqiú",
+    "hanzi": "排球",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "handebol",
+    "pinyin": "shǒuqiú",
+    "hanzi": "手球",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "golfe",
+    "pinyin": "gāo'ěrfūqiú",
+    "hanzi": "高尔夫球",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "partida",
+    "pinyin": "bǐsài",
+    "hanzi": "比赛",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "jogar/brincar",
+    "pinyin": "wán",
+    "hanzi": "玩",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "jogar (esporte)",
+    "pinyin": "dǎ",
+    "hanzi": "打",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "cor",
+    "pinyin": "yánsè",
+    "hanzi": "颜色",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "azul",
+    "pinyin": "lánsè",
+    "hanzi": "蓝色",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "marrom",
+    "pinyin": "kāfēisè",
+    "hanzi": "咖啡色",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "laranja",
+    "pinyin": "chéngsè",
+    "hanzi": "橙色",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "vermelho",
+    "pinyin": "hóngsè",
+    "hanzi": "红色",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "rosa",
+    "pinyin": "fěnhóngsè",
+    "hanzi": "粉红色",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "verde",
+    "pinyin": "lǜsè",
+    "hanzi": "绿色",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "preto",
+    "pinyin": "hēisè",
+    "hanzi": "黑色",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "cinza",
+    "pinyin": "huīsè",
+    "hanzi": "灰色",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "amarelo",
+    "pinyin": "huángsè",
+    "hanzi": "黄色",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "branco",
+    "pinyin": "báisè",
+    "hanzi": "白色",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "prateado",
+    "pinyin": "yínsè",
+    "hanzi": "银色",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "roxo",
+    "pinyin": "zǐsè",
+    "hanzi": "紫色",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "com",
+    "pinyin": "gēn",
+    "hanzi": "跟",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "como é / que tal",
+    "pinyin": "zěnmeyàng",
+    "hanzi": "怎么样",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "vestir",
+    "pinyin": "chuān",
+    "hanzi": "穿",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "bandeira nacional",
+    "pinyin": "guóqí",
+    "hanzi": "国旗",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "brasileiro",
+    "pinyin": "Bāxīrén",
+    "hanzi": "巴西人",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "quais",
+    "pinyin": "nǎxiē",
+    "hanzi": "哪些",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "empresa",
+    "pinyin": "gōngsī",
+    "hanzi": "公司",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "supermercado",
+    "pinyin": "chāoshì",
+    "hanzi": "超市",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "padaria",
+    "pinyin": "miànbāo diàn",
+    "hanzi": "面包店",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "loja",
+    "pinyin": "shāngdiàn",
+    "hanzi": "商店",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "faculdade",
+    "pinyin": "dàxué",
+    "hanzi": "大学",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "correio",
+    "pinyin": "yóujú",
+    "hanzi": "邮局",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "banco",
+    "pinyin": "yínháng",
+    "hanzi": "银行",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "filme",
+    "pinyin": "diànyǐng",
+    "hanzi": "电影",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "fim de semana",
+    "pinyin": "zhōumò",
+    "hanzi": "周末",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "cada/todo",
+    "pinyin": "měi gè",
+    "hanzi": "每个",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "contador de aulas",
+    "pinyin": "jié",
+    "hanzi": "节",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "fora",
+    "pinyin": "wàimiàn",
+    "hanzi": "外面",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "dentro",
+    "pinyin": "lǐmiàn",
+    "hanzi": "里面",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "perto",
+    "pinyin": "fùjìn",
+    "hanzi": "附近",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "entre",
+    "pinyin": "zhījiān",
+    "hanzi": "之间",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "ao lado de",
+    "pinyin": "pángbiān",
+    "hanzi": "旁边",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "atrás de",
+    "pinyin": "hòumiàn",
+    "hanzi": "后面",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "na frente de",
+    "pinyin": "qiánmiàn",
+    "hanzi": "前面",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "precisar",
+    "pinyin": "xūyào",
+    "hanzi": "需要",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "estudar",
+    "pinyin": "xuéxí",
+    "hanzi": "学习",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "ler",
+    "pinyin": "kàn shū",
+    "hanzi": "看书",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "barato",
+    "pinyin": "piányí",
+    "hanzi": "便宜",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "carro",
+    "pinyin": "qìchē",
+    "hanzi": "汽车",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "escola de inglês",
+    "pinyin": "yīngyǔ xuéxiào",
+    "hanzi": "英语学校",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "Banco do Brasil",
+    "pinyin": "Bāxī yínháng",
+    "hanzi": "巴西银行",
+    "som": ""
+  }
+]

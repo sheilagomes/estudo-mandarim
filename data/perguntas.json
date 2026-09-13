@@ -1,0 +1,366 @@
+[
+  {
+    "perguntaPt": "Como você se chama?",
+    "perguntaPy": "nǐ jiào shénme míngzì?",
+    "perguntaHz": "你叫什么名字",
+    "respostaPt": "我叫安娜",
+    "respostaPy": "wǒ jiào ānnà"
+  },
+  {
+    "perguntaPt": "Seu pai é professor?",
+    "perguntaPy": "nǐ de bàba shì lǎoshī ma",
+    "perguntaHz": "你的爸爸是老师吗",
+    "respostaPt": "我的爸爸不是老师",
+    "respostaPy": "wǒ de bàba bùshì lǎoshī"
+  },
+  {
+    "perguntaPt": "Quem é seu pai?",
+    "perguntaPy": "nǐ de bàba shì shuí",
+    "perguntaHz": "你的爸爸是谁",
+    "respostaPt": "我的爸爸是保罗",
+    "respostaPy": "wǒ de bàba shì bǎoluó"
+  },
+  {
+    "perguntaPt": "Ela é amiga de quem?",
+    "perguntaPy": "tā shì shuí de péngyou",
+    "perguntaHz": "他是谁的朋友",
+    "respostaPt": "他是保罗的朋友",
+    "respostaPy": "tā shì bǎoluó de péngyǒu"
+  },
+  {
+    "perguntaPt": "Você está bem?",
+    "perguntaPy": "nǐ hǎo ma",
+    "perguntaHz": "你好吗",
+    "respostaPt": "我很好",
+    "respostaPy": "wǒ hěn hǎo"
+  },
+  {
+    "perguntaPt": "Qual é o nome do seu professor?",
+    "perguntaPy": "lǎoshī jiào shénme míngzì",
+    "perguntaHz": "老师叫什么名字",
+    "respostaPt": "我的老师是安德森",
+    "respostaPy": "wǒ de lǎoshī shì āndésēn"
+  },
+  {
+    "perguntaPt": "O que é isto?",
+    "perguntaPy": "zhè shì shénme",
+    "perguntaHz": "这是什么",
+    "respostaPt": "这是石",
+    "respostaPy": "zhè shì shí"
+  },
+  {
+    "perguntaPt": "Eu estou bem, e vocês?",
+    "perguntaPy": "wǒ hěn hǎo, nǐmen hǎo ma",
+    "perguntaHz": "我很好,你们好吗",
+    "respostaPt": "我们很好",
+    "respostaPy": "wǒmen hěn hǎo"
+  },
+  {
+    "perguntaPt": "Quem é a sua professora?",
+    "perguntaPy": "nǐ de lǎoshī shì shuí",
+    "perguntaHz": "你的老师是谁",
+    "respostaPt": "我的老师是安娜",
+    "respostaPy": "wǒ de lǎoshī shì ānnà"
+  },
+  {
+    "perguntaPt": "Qual é o nome do seu pai",
+    "perguntaPy": "nǐ de bàba jiào shénme míngzì",
+    "perguntaHz": "你的爸爸叫什么名字",
+    "respostaPt": "我的爸爸叫林先生",
+    "respostaPy": "wǒ de bàba jiào lín xiānshēng"
+  },
+  {
+    "perguntaPt": "O pai do seu colega de estudo é professor?",
+    "perguntaPy": "nǐ de tóngxué de bàba shì lǎoshī ma",
+    "perguntaHz": "你的同学的爸爸是老师吗",
+    "respostaPt": "他不是老师",
+    "respostaPy": "tā bùshì lǎoshī"
+  },
+  {
+    "perguntaPt": "Ele é seu amigo?",
+    "perguntaPy": "tā shì nǐ de péngyǒu ma",
+    "perguntaHz": "他是你的朋友吗",
+    "respostaPt": "他是我的弟弟",
+    "respostaPy": "tā shì wǒ de dìdì"
+  },
+  {
+    "perguntaPt": "Seu nome é Paulo?",
+    "perguntaPy": "nǐ de míngzì shì bǎoluó ma",
+    "perguntaHz": "你的名字是保罗吗",
+    "respostaPt": "我叫安德森",
+    "respostaPy": "wǒ jiào āndésēn"
+  },
+  {
+    "perguntaPt": "Quantos estudantes?",
+    "perguntaPy": "jǐ ge xuéshēng",
+    "perguntaHz": "几个学生",
+    "respostaPt": "五个学生",
+    "respostaPy": "wǔ ge xuéshēng"
+  },
+  {
+    "perguntaPt": "Quantas mesas?",
+    "perguntaPy": "jǐ zhāng zhuōzi",
+    "perguntaHz": "几张桌子",
+    "respostaPt": "两张桌子",
+    "respostaPy": "liǎng zhāng zhuōzi"
+  },
+  {
+    "perguntaPt": "Aqui tem professor?",
+    "perguntaPy": "zhèlǐ yǒu lǎoshī ma",
+    "perguntaHz": "这里有老师吗",
+    "respostaPt": "这里没有老师",
+    "respostaPy": "zhèlǐ méi yǒu lǎoshī"
+  },
+  {
+    "perguntaPt": "Aqui tem dicionário?",
+    "perguntaPy": "zhèlǐ yǒu zìdiǎn ma",
+    "perguntaHz": "这里有字典吗",
+    "respostaPt": "这里有三本字典",
+    "respostaPy": "zhèlǐ yǒu sān běn zìdiǎn"
+  },
+  {
+    "perguntaPt": "Você tem quantos dicionários?",
+    "perguntaPy": "nǐ yǒu jǐ běn zìdiǎn",
+    "perguntaHz": "你有几本字典",
+    "respostaPt": "我有四本字典",
+    "respostaPy": "wǒ yǒu sì běn zìdiǎn"
+  },
+  {
+    "perguntaPt": "Aqui tem quantos pedaços de giz?",
+    "perguntaPy": "zhèlǐ yǒu jǐ zhī fěnbǐ",
+    "perguntaHz": "这里有几支粉笔",
+    "respostaPt": "这里有七支粉笔",
+    "respostaPy": "zhèlǐ yǒu qī zhī fěnbǐ"
+  },
+  {
+    "perguntaPt": "Eu quero 12 mesas, você tem?",
+    "perguntaPy": "wǒ yào shíèr zhāng zhuōzi nǐ yǒu ma",
+    "perguntaHz": "我要十二张桌子你有吗",
+    "respostaPt": "我有十张桌子",
+    "respostaPy": "wǒ yǒu shí zhāng zhuōzi"
+  },
+  {
+    "perguntaPt": "Qual é o nome desse livro?",
+    "perguntaPy": "nàběn shū jiào shénme míngzì",
+    "perguntaHz": "那本书叫什么名字",
+    "respostaPt": "书名三体",
+    "respostaPy": "shū míng sān tǐ"
+  },
+  {
+    "perguntaPt": "Você tem quantas canetas?",
+    "perguntaPy": "nǐ yǒu jǐ zhī bǐ",
+    "perguntaHz": "你有几支笔",
+    "respostaPt": "我有九支笔",
+    "respostaPy": "wǒ yǒu jiǔ zhī bǐ"
+  },
+  {
+    "perguntaPt": "Você tem quantos livros?",
+    "perguntaPy": "nǐ yǒu jǐ běn shū",
+    "perguntaHz": "你有几本书",
+    "respostaPt": "我有三本书",
+    "respostaPy": "wǒ yǒu sān běn shū"
+  },
+  {
+    "perguntaPt": "Aqui tem quantas mesas?",
+    "perguntaPy": "zhèlǐ yǒu jǐ zhāng zhuōzi",
+    "perguntaHz": "这里有几张桌子",
+    "respostaPt": "zhèlǐ yǒu liǎng zhāng zhuōzi",
+    "respostaPy": "这里有两张桌子"
+  },
+  {
+    "perguntaPt": "Aqui tem quantos estudantes?",
+    "perguntaPy": "zhèlǐ yǒu jǐ ge xuéshēng",
+    "perguntaHz": "这里有几个学生",
+    "respostaPt": "这里有十五个学生",
+    "respostaPy": "zhèlǐ yǒu shíwǔ ge xuéshēng"
+  },
+  {
+    "perguntaPt": "De quem é esse livro?",
+    "perguntaPy": "zhè shì shuí de shū",
+    "perguntaHz": "这是谁的书",
+    "respostaPt": "这是我的书",
+    "respostaPy": "zhè shì wǒ de shū"
+  },
+  {
+    "perguntaPt": "Você tem três canetas?",
+    "perguntaPy": "nǐ yǒu sān zhī bǐ ma",
+    "perguntaHz": "你有三支笔吗",
+    "respostaPt": "我有四支笔",
+    "respostaPy": "wǒ yǒu sì zhī bǐ"
+  },
+  {
+    "perguntaPt": "Quantos livros o seu professor tem?",
+    "perguntaPy": "nǐ de lǎoshī yǒu jǐ běn shū",
+    "perguntaHz": "你的老师有几本书",
+    "respostaPt": "我的老师有十四本书",
+    "respostaPy": "wǒ de lǎoshī yǒu shísì běn"
+  },
+  {
+    "perguntaPt": "Quantas mesas seu pai tem?",
+    "perguntaPy": "nǐ de bàba yǒu jǐ zhāng zhuōzi",
+    "perguntaHz": "你的爸爸有几张桌子",
+    "respostaPt": "我的爸爸有六张桌子",
+    "respostaPy": "wǒ de bàba yǒu liù zhāng zhuōzi"
+  },
+  {
+    "perguntaPt": "Quantas canetas há no total aqui?",
+    "perguntaPy": "zhèlǐ yīgòng yǒu jǐ zhī bǐ",
+    "perguntaHz": "这里一共有几支笔?",
+    "respostaPt": "这里有三支笔。",
+    "respostaPy": "zhèli yǒu sān zhī bǐ"
+  },
+  {
+    "perguntaPt": "Quantos estudantes há no total aqui?",
+    "perguntaPy": "zhèlǐ yīgòng yǒu jǐ gè xuéshēng",
+    "perguntaHz": "这里一共有几个学生?",
+    "respostaPt": "这里有四个学生。",
+    "respostaPy": "zhèli yǒu sì gè xuéshēng"
+  },
+  {
+    "perguntaPt": "Quantas canetas Lin Shuimu tem no total?",
+    "perguntaPy": "Lín shuǐmù yīgòng yǒu jǐ zhī bǐ",
+    "perguntaHz": "林水木一共有几支笔?",
+    "respostaPt": "林水木有三支笔。",
+    "respostaPy": "Lín shuǐmù yǒusān zhī bǐ"
+  },
+  {
+    "perguntaPt": "Quem tem um mapa?",
+    "perguntaPy": "shéi yǒu dìtú",
+    "perguntaHz": "谁有地图?",
+    "respostaPt": "安德森有地图。",
+    "respostaPy": "Āndésēn yǒu dìtú"
+  },
+  {
+    "perguntaPt": "Quem não tem uma régua?",
+    "perguntaPy": "shéi méiyǒu chǐ",
+    "perguntaHz": "谁没有尺?",
+    "respostaPt": "林水木没有尺。",
+    "respostaPy": "Lín shuǐmù méiyǒu chǐ"
+  },
+  {
+    "perguntaPt": "Quantos pares de sapatos você tem?",
+    "perguntaPy": "nǐ yǒu jǐ shuāng xiézi",
+    "perguntaHz": "你有几双鞋子?",
+    "respostaPt": "我有六双鞋子",
+    "respostaPy": "wǒ yǒu liù shuāng xiézi"
+  },
+  {
+    "perguntaPt": "Quantas cadeiras tem na sua casa?",
+    "perguntaPy": "zài nǐ de jiā yǒu jǐ zhāng yǐzi",
+    "perguntaHz": "在你的家有几张椅子",
+    "respostaPt": "在我的家有八张椅子",
+    "respostaPy": "zài wǒ de jiā yǒu bā zhāng yǐzi"
+  },
+  {
+    "perguntaPt": "Quantas pessoas tem na sua casa?",
+    "perguntaPy": "zài nǐ de jiā yǒu jǐ ge rén",
+    "perguntaHz": "在你的家有几个人？",
+    "respostaPt": "在我的家有两个人",
+    "respostaPy": "wǒ de jiā yǒu liǎng gè rén"
+  },
+  {
+    "perguntaPt": "Você sabe dirigir?",
+    "perguntaPy": "nǐ huì kāichē ma",
+    "perguntaHz": "你会开车吗？",
+    "respostaPt": "我会开车",
+    "respostaPy": "wǒ huì kāichē"
+  },
+  {
+    "perguntaPt": "Eu posso assistir TV?",
+    "perguntaPy": "wǒ kěyǐ kàn diànshì ma",
+    "perguntaHz": "我可以看电视吗？",
+    "respostaPt": "你可以",
+    "respostaPy": "nǐ kěyǐ"
+  },
+  {
+    "perguntaPt": "O que você quer comer?",
+    "perguntaPy": "nǐ xǐhuan chī shénme",
+    "perguntaHz": "你喜欢吃什么？",
+    "respostaPt": "我喜欢吃草莓。",
+    "respostaPy": "wǒ xǐhuān chī cǎoméi"
+  },
+  {
+    "perguntaPt": "Você sabe fazer bolo?",
+    "perguntaPy": "nǐ huì bú huì zuò dàngāo",
+    "perguntaHz": "你会不会做蛋糕?",
+    "respostaPt": "你会",
+    "respostaPy": "wǒ huì"
+  },
+  {
+    "perguntaPt": "Você gosta de café?",
+    "perguntaPy": "nǐ xǐ bù xǐhuan hē kāfēi",
+    "perguntaHz": "你喜不喜欢喝咖啡？",
+    "respostaPt": "你不喜",
+    "respostaPy": "wǒ bù xǐhuan"
+  },
+  {
+    "perguntaPt": "Você tem um dicionário de chinês?",
+    "perguntaPy": "nǐ yǒu méi yǒu zhōngwén zìdiǎn",
+    "perguntaHz": "你有没有中文字典？",
+    "respostaPt": "你没有",
+    "respostaPy": "wǒ méi yǒu"
+  },
+  {
+    "perguntaPt": "Você gosta de ver o que na TV?",
+    "perguntaPy": "nǐ xǐhuan kàn shénme diànshì",
+    "perguntaHz": "你喜欢看什么电视?",
+    "respostaPt": "你不喜看电视",
+    "respostaPy": "wǒ bù xǐhuan kàn diànshì"
+  },
+  {
+    "perguntaPt": "Que filme tem hoje?",
+    "perguntaPy": "jīntiān yǒu shénme diànyǐng",
+    "perguntaHz": "今天有什么电影?",
+    "respostaPt": "今天没有电影",
+    "respostaPy": "jīntiān méi yǒu diànyǐng"
+  },
+  {
+    "perguntaPt": "O que você quer fazer amanhã?",
+    "perguntaPy": "nǐmen míngtiān xiǎng zuò shénme",
+    "perguntaHz": "你们明天想做什么？",
+    "respostaPt": "我们想看电影",
+    "respostaPy": "wǒmen xiǎng kàn diànyǐng"
+  },
+  {
+    "perguntaPt": "A que horas você se levanta?",
+    "perguntaPy": "nǐ jǐ diǎn qǐchuáng?",
+    "perguntaHz": "你几点起床？",
+    "respostaPt": "Eu me levanto às seis e meia da manhã.",
+    "respostaPy": "wǒ zǎoshang liù diǎn bàn qǐchuáng."
+  },
+  {
+    "perguntaPt": "Que dia da semana é hoje?",
+    "perguntaPy": "jīntiān shì xīngqī jǐ?",
+    "perguntaHz": "今天是星期几？",
+    "respostaPt": "Hoje é segunda-feira.",
+    "respostaPy": "jīntiān shì xīngqīyī."
+  },
+  {
+    "perguntaPt": "Em que dia da semana você vai à academia?",
+    "perguntaPy": "nǐ xīngqī jǐ qù jiànshēnfáng?",
+    "perguntaHz": "你星期几去健身房？",
+    "respostaPt": "Eu vou à academia na quarta-feira à tarde.",
+    "respostaPy": "wǒ xīngqīsān xiàwǔ qù jiànshēnfáng."
+  },
+  {
+    "perguntaPt": "Onde está a televisão?",
+    "perguntaPy": "diànshì zài nǎli?",
+    "perguntaHz": "电视在哪里？",
+    "respostaPt": "A televisão está à esquerda da cama.",
+    "respostaPy": "diànshì zài chuáng de zuǒbian."
+  },
+  {
+    "perguntaPt": "A que horas seu pai volta para casa todos os dias?",
+    "perguntaPy": "nǐ bàba měitiān jǐ diǎn huí jiā?",
+    "perguntaHz": "你爸爸每天几点回家？",
+    "respostaPt": "Meu pai volta às seis da tarde.",
+    "respostaPy": "wǒ bàba liù diǎn huí jiā."
+  },
+  {
+    "perguntaPt": "Onde fica o Banco do Brasil?",
+    "perguntaPy": "Bāxī yínháng zài nǎli?",
+    "perguntaHz": "巴西银行在哪里？",
+    "respostaPt": "Fica bem perto, atrás da livraria.",
+    "respostaPy": "jiù zài fùjìn, zài shūdiàn hòumiàn."
+  }
+]
