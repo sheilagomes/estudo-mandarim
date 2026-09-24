@@ -2224,5 +2224,215 @@
     "pinyin": "Bāxī yínháng",
     "hanzi": "巴西银行",
     "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "hora",
+    "pinyin": "diǎn",
+    "hanzi": "点",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "manhã",
+    "pinyin": "zǎo",
+    "hanzi": "早",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "meio-dia",
+    "pinyin": "wǔ",
+    "hanzi": "午",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "noite",
+    "pinyin": "wǎn",
+    "hanzi": "晚",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "quantas horas",
+    "pinyin": "jǐ gè xiǎoshí",
+    "hanzi": "几个小时",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "dia",
+    "pinyin": "tiān",
+    "hanzi": "天",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "ano",
+    "pinyin": "nián",
+    "hanzi": "年",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "dia do mês",
+    "pinyin": "hào",
+    "hanzi": "号",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "sair de casa",
+    "pinyin": "chūmén",
+    "hanzi": "出门",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "ir trabalhar",
+    "pinyin": "shàngbān",
+    "hanzi": "上班",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "voltar para casa",
+    "pinyin": "huíjiā",
+    "hanzi": "回家",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "dormir",
+    "pinyin": "shuìjiào",
+    "hanzi": "睡觉",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "segunda-feira",
+    "pinyin": "xīngqīyī",
+    "hanzi": "星期一",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "terça-feira",
+    "pinyin": "xīngqī'èr",
+    "hanzi": "星期二",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "quarta-feira",
+    "pinyin": "xīngqīsān",
+    "hanzi": "星期三",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "quinta-feira",
+    "pinyin": "xīngqīsì",
+    "hanzi": "星期四",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "sexta-feira",
+    "pinyin": "xīngqīwǔ",
+    "hanzi": "星期五",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "sábado",
+    "pinyin": "xīngqīliù",
+    "hanzi": "星期六",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "domingo",
+    "pinyin": "xīngqītiān",
+    "hanzi": "星期天",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "academia",
+    "pinyin": "jiànshēnfáng",
+    "hanzi": "健身房",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "onde",
+    "pinyin": "nǎli",
+    "hanzi": "哪里",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "hoje",
+    "pinyin": "jīntiān",
+    "hanzi": "今天",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "colega de turma",
+    "pinyin": "tóngxué",
+    "hanzi": "同学",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "ir",
+    "pinyin": "qù",
+    "hanzi": "去",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "o quê",
+    "pinyin": "shénme",
+    "hanzi": "什么",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "(partícula de experiência)",
+    "pinyin": "guo",
+    "hanzi": "过",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "(partícula de complemento)",
+    "pinyin": "de",
+    "hanzi": "得",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "no meio",
+    "pinyin": "zhōngjiān",
+    "hanzi": "中间",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "o que há (pergunta)",
+    "pinyin": "yǒu shénme",
+    "hanzi": "有什么",
+    "som": ""
+  },
+  {
+    "categoria": "L01",
+    "portugues": "marrom",
+    "pinyin": "zōngsè",
+    "hanzi": "棕色",
+    "som": ""
   }
 ]
